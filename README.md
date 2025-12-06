@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .TOYS one-word domains still available to buy.
 
-This dataset contains 4,606 .TOYS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,605 .TOYS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.TOYS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=toys-oneword-domains&utm_content=description.top) (4,609) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.TOYS one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.toys        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.toys        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.toys      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.toys  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.toys      | available | 43       | 2%     | 5      |           |         |         |
