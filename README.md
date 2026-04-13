@@ -1,10 +1,10 @@
-# Available .TOYS One-Word Domains (9,316)
+# Available .TOYS One-Word Domains (9,315)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C314%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C316%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C315%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .toys one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 9,314-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,316 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,315 domains** on the canonical page below.
 
-**Public extract:** 9,314 rows · **Live catalog:** 9,316 domains
+**Public extract:** 9,314 rows · **Live catalog:** 9,315 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/toys`  
@@ -69,20 +69,20 @@ print(df.head())
 | ace.toys    | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                                  |
 | law.toys    | available | $82.48    | —             | 82             | 46     | 3      | namecheap                                                 |
 | home.toys   | resell    | —         | —             | 100            | 62     | 4      | Porkbun LLC                                               |
-| fast.toys   | premium   | $250      | $250          | 82             | 53     | 4      | name.com                                                  |
-| forge.toys  | available | $19.99    | $84.99        | 62             | 45     | 5      | name.com                                                  |
+| fast.toys   | premium   | $250      | $250          | 82             | 52     | 4      | name.com                                                  |
+| forge.toys  | available | $19.99    | $84.99        | 62             | 44     | 5      | name.com                                                  |
 | power.toys  | resell    | —         | —             | 98             | 62     | 5      | GoDaddy.com, LLC                                          |
-| simple.toys | premium   | $123.75   | $123.75       | 128            | 48     | 6      | name.com                                                  |
+| simple.toys | premium   | $123.75   | $123.75       | 128            | 49     | 6      | name.com                                                  |
 | energy.toys | available | $82.48    | —             | 82             | 43     | 6      | namecheap                                                 |
 | web.toys    | resell    | —         | —             | 72             | 61     | 3      | Spaceship, Inc.                                           |
 | travel.toys | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
 | track.toys  | available | $19.99    | $84.99        | 94             | 42     | 5      | name.com                                                  |
 | the.toys    | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                                 |
 | auto.toys   | premium   | $260      | $260          | 68             | 45     | 4      | namecheap                                                 |
-| daily.toys  | available | $19.99    | $84.99        | 74             | 40     | 5      | name.com                                                  |
+| unity.toys  | available | $19.99    | $84.99        | 70             | 40     | 5      | name.com                                                  |
 | dot.toys    | resell    | —         | —             | 74             | 58     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | mix.toys    | premium   | $123.75   | $123.75       | 66             | 45     | 3      | name.com                                                  |
-| unity.toys  | available | $19.99    | $84.99        | 70             | 40     | 5      | name.com                                                  |
+| stock.toys  | available | $82.48    | —             | 68             | 40     | 5      | namecheap                                                 |
 | smart.toys  | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,314-row public sample | 9,316 live domains                               |
+| 9,314-row public sample | 9,315 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
