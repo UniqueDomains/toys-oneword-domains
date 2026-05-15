@@ -496,6 +496,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2e99a420-3e17-4fed-b47d-81298228e5ba,communitycolleges.toys,available,19.99,,54,2,18,name.com,,
 2e9f2159-68bc-4362-8cca-7f0b324ba1d5,getroundto.toys,available,19.99,,74,1,12,name.com,,
 2ea77dde-ebe3-4c4d-af84-bebaacfacc88,slips.toys,available,19.99,,70,10,5,name.com,,
+2ec7d690-a264-4a13-a24c-f3a39c528d58,dollarstore.toys,available,19.99,,62,6,12,name.com,,
 2ed045ea-f8b9-4f61-826f-cf406c0daab0,elects.toys,available,19.99,,56,4,6,name.com,,
 2ee6dd84-d956-499b-a590-7d0ec5c0420e,programmes.toys,available,19.99,,53,4,10,name.com,,
 2efcd21f-2289-46ec-bfb1-82a72f591f71,honeymooning.toys,available,19.99,,82,2,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 592bafdd-08dc-4a40-9fd9-372945b328e2,porkribs.toys,available,19.99,,55,1,9,name.com,,
 596708f4-86cd-4a30-9d83-2e7dbbfd79bb,clearout.toys,available,19.99,,70,5,9,name.com,,
 599a4828-327a-4a80-ad93-e7334491acd5,conveniencestores.toys,available,19.99,,46,2,18,name.com,,
-59b4636e-223c-475a-9dc8-289c1caf8945,goforit.toys,available,19.99,,76,11,9,name.com,,
