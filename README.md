@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .toys one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,265 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,265 domains · **Median ask:** $26.14 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,265 domains · **Median ask:** $24.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/toys`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/toys`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TOYS one-word domain 
 
 ### Files
 
-- `toys.csv` — public CSV extract (1,000 rows)
-- `toys.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `toys.csv`, public CSV extract (1,000 rows)
+- `toys.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| lets.toys         | available | $19.99    | —             | 77             | 39     | 4      | name.com     |
-| girls.toys        | resell    | —         | —             | 83             | 23     | 5      | Sav.com, LLC |
-| Cats.toys         | premium   | $92.40    | $92.40        | 59             | 33     | 4      | namecheap    |
-| stories.toys      | available | $19.99    | —             | 58             | 36     | 7      | name.com     |
-| gives.toys        | premium   | $123.75   | —             | 52             | 12     | 5      | name.com     |
-| tokens.toys       | available | $19.99    | —             | 51             | 36     | 6      | name.com     |
-| tickets.toys      | available | $19.99    | —             | 64             | 34     | 7      | name.com     |
-| payments.toys     | available | $19.99    | —             | 58             | 33     | 8      | name.com     |
-| slots.toys        | available | $19.99    | —             | 49             | 31     | 5      | name.com     |
-| inspiration.toys  | available | $19.99    | —             | 88             | 30     | 11     | name.com     |
-| quotes.toys       | available | $19.99    | —             | 58             | 29     | 6      | name.com     |
-| commonground.toys | available | $19.99    | —             | 74             | 28     | 13     | name.com     |
-| photos.toys       | available | $19.99    | —             | 54             | 28     | 6      | name.com     |
-| backyard.toys     | available | $19.99    | —             | 80             | 27     | 9      | name.com     |
-| bees.toys         | available | $19.99    | —             | 54             | 27     | 4      | name.com     |
-| drops.toys        | available | $19.99    | —             | 52             | 25     | 5      | name.com     |
-| Trex.toys         | available | $82.48    | —             | 80             | 24     | 5      | namecheap    |
-| chem.toys         | available | $19.99    | —             | 74             | 24     | 4      | name.com     |
-| shops.toys        | available | $19.99    | —             | 64             | 24     | 5      | name.com     |
-| gamers.toys       | available | $19.99    | —             | 62             | 24     | 6      | name.com     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aid.toys      | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| big.toys      | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.   |
+| her.toys      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
+| ala.toys      | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| tug.toys      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| net.toys      | premium   | $500      | —             | high           | medium | 3      | name.com          |
+| ane.toys      | available | $14.98    | $82.48        | low            | low    | 3      | namecheap         |
+| club.toys     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| sad.toys      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com          |
+| axe.toys      | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| clean.toys    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| tel.toys      | premium   | $500      | —             | medium         | low    | 3      | name.com          |
+| BJP.toys      | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| token.toys    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC      |
+| blink.toys    | premium   | $500      | —             | high           | medium | 5      | name.com          |
+| btw.toys      | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| russia.toys   | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 12 |
+| elite.toys    | premium   | $500      | $500          | high           | medium | 5      | name.com          |
+| CNN.toys      | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| stunning.toys | resell    | —         | —             | high           | low    | 8      | InterNetX GmbH    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .toys extension, so the main question is fit. Some are literal category words, such as vacuum.toys or chart.toys, which may suit toy lines tied to themes, learning, or pretend play. Others are broader or more abstract, like elegant.toys, jot.toys, or provision.toys, which lean more brandable than descriptive. When comparing these domains, weigh memorability against precision. Exact words can be easier to understand at a glance, while shorter or more distinctive terms can be easier to own as a brand. The median ask of 26.14 suggests low entry pricing across much of this selection, but name quality still varies sharply.
+This set of one-word .toys domains spans playful, descriptive, and compound names built around toys, play, and hobby themes. Prices sit near a $25 median ask, giving both investors and founders an affordable entry point for testing brand names or building inventory. Because .toys is a niche extension, buyers should weigh renewal costs and mainstream recognition alongside brandability when picking a name from this list.
 
-- Literal .toys terms can signal category fit quickly
-- Short names like jot.toys are easier to recall
-- Broad words may brand well but need stronger positioning
-- Check ambiguity and trademark exposure before committing
+- 12,265 .toys domains tracked, updated daily
+- Median ask near $25 — low-cost entry for testing names
+- Mix of playful, descriptive, and compound toy-themed domains
+- Niche TLD: weigh renewal cost vs. mainstream recognition
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOYS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOYS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
