@@ -16,10 +16,11 @@ fd2137a4-39e3-4fdb-bc8d-c92bbc481a85,pigweed.toys,available,17.99,64.99,medium,l
 328be49b-90f3-4615-add2-83d37086ce40,arrears.toys,available,17.99,64.99,high,low,7,namesilo,,,20/09/2026 08:55
 45c5d31c-2409-43ac-bedd-b2777d741173,styleless.toys,available,14.98,82.48,low,low,9,namecheap,,,10/09/2026 23:15
 1d5f8386-ea39-489d-9f24-ff5bbfd6be9a,bargello.toys,available,17.99,64.99,medium,low,8,namesilo,,,22/09/2026 05:48
-d00da2f9-781f-4db9-8987-829e2800e22c,roll.toys,available,19.99,,high,low,4,name.com,,,
+d00da2f9-781f-4db9-8987-829e2800e22c,roll.toys,available,13.14,51.95,high,low,4,spaceship,,,27/09/2026 15:56
+d779929d-6f74-4fb2-88fc-005300e879d2,cas.toys,available,10.92,53.72,high,low,3,dynadot,,,27/09/2026 23:14
 bb3f8562-5323-4450-b9ba-1f867a5c379d,scaly.toys,available,14.98,82.48,medium,low,5,namecheap,,,23/08/2026 00:05
 b83b9585-5494-4614-909b-a0c7e3d295a3,grandiose.toys,available,14.98,82.48,high,low,9,namecheap,,,20/08/2026 17:58
-14b063d2-9da6-483d-a740-6e53eb6b27ef,jerome.toys,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 05:46
+14b063d2-9da6-483d-a740-6e53eb6b27ef,jerome.toys,available,17.99,64.99,medium,low,6,namesilo,,,25/09/2026 05:46
 28eced0c-3e83-4614-9f56-ce8743d767a5,silhouettes.toys,available,17.99,64.99,medium,low,11,namesilo,,,20/09/2026 11:57
 e4acdc0f-8dbf-4547-a8b5-3149374e860b,athanasius.toys,available,14.98,82.48,medium,low,10,namecheap,,,20/09/2026 20:26
 2bd65c0d-c35c-49c2-8c42-1e3542102a29,bruising.toys,available,14.98,82.48,medium,low,8,namecheap,,,11/08/2026 06:34
@@ -28,7 +29,7 @@ d6236695-fa63-42fc-b765-23f746d62c2f,obligation.toys,available,19.99,84.99,high,
 f674232e-dfc7-4a66-a0ce-fb37d5b04e80,controller.toys,available,14.98,82.48,high,low,10,namecheap,,,23/09/2026 23:15
 bc2aa825-f545-43b8-8e9c-71b6f93c66ab,height.toys,available,14.98,82.48,high,low,6,namecheap,,,25/09/2026 19:39
 1202f2a3-0d15-4392-a1b7-d1b5a5a096f6,wanly.toys,available,17.99,64.99,low,low,5,namesilo,,,16/09/2026 11:19
-1d0c63d3-f987-4d1e-b008-2b0e32719fc4,fated.toys,available,14.98,82.48,high,low,5,namecheap,,,17/08/2026 23:32
+1d0c63d3-f987-4d1e-b008-2b0e32719fc4,fated.toys,available,14.98,82.48,medium,low,5,namecheap,,,17/08/2026 23:32
 86056fad-07f6-41fc-8198-3bbebbe453f5,disabled.toys,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 10:55
 a175ef10-29d5-4569-a404-be71e2fe604d,newsworthy.toys,available,14.98,82.48,high,low,10,namecheap,,,03/09/2026 16:53
 47fc0f2b-e5b1-4f18-8d10-f85fcf2c064a,textual.toys,available,14.98,82.48,high,low,7,namecheap,,,11/09/2026 12:20
@@ -55,12 +56,12 @@ a1a174da-a773-4e0c-8f57-55773c281c21,skintight.toys,available,14.98,82.48,medium
 743d062c-1d21-4fa1-98f0-3e044323db95,duct.toys,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 00:18
 910776bc-392e-4df9-bbe0-c067147a27f2,pneumatic.toys,available,14.98,82.48,high,low,9,namecheap,,,08/09/2026 22:06
 5580cd96-339d-425a-a21e-1490fc304679,travelled.toys,available,19.99,,high,low,9,name.com,,,
-c91165d8-d102-4c4f-8b11-a63b4ed89f0d,movie.toys,available,17.99,64.99,high,low,5,namesilo,,,24/09/2026 06:17
+c91165d8-d102-4c4f-8b11-a63b4ed89f0d,movie.toys,available,50.2,50.2,high,low,5,cloudflare,,,28/09/2026 03:21
 1a9ca939-85da-494c-8d64-ce9262b231c2,enlarged.toys,available,14.98,82.48,high,low,8,namecheap,,,22/09/2026 22:37
 38b8dbc6-2dd8-4f5f-a894-d0b45a155719,ethyne.toys,available,14.98,82.48,medium,low,6,namecheap,,,17/09/2026 00:23
 3b5d481e-edbc-4230-9e9a-64d1b8208656,unwanted.toys,available,14.98,82.48,high,low,8,namecheap,,,12/09/2026 07:48
 583be149-7231-411a-acff-6247c2d3594f,garbage.toys,available,14.98,82.48,high,low,7,namecheap,,,25/09/2026 00:12
-71766dae-52ef-4029-92ed-3a949bf3d21b,bimbo.toys,available,14.98,82.48,high,low,5,namecheap,,,23/09/2026 16:54
+71766dae-52ef-4029-92ed-3a949bf3d21b,bimbo.toys,available,14.98,82.48,medium,low,5,namecheap,,,23/09/2026 16:54
 11b15067-8ec8-4fc9-b967-06cfedf2aeff,hatched.toys,available,14.98,82.48,high,low,7,namecheap,,,13/08/2026 08:20
 f8994881-0c39-4cfa-acd9-6adcd1a3293a,miao.toys,available,14.98,82.48,high,low,4,namecheap,,,21/08/2026 10:03
 c0f10fb2-cdf1-4edf-8b12-e8c7145f86e1,assemblage.toys,available,17.99,64.99,high,low,10,namesilo,,,17/09/2026 17:28
@@ -71,6 +72,7 @@ fd082d91-5ad8-45e6-8948-4dd50a6cbe94,loyalty.toys,available,17.99,64.99,high,low
 73379e80-3253-4c74-a1e4-e36f42b33cc4,practicality.toys,available,17.99,64.99,high,low,12,namesilo,,,16/09/2026 09:33
 865faa74-ea63-4a02-913f-a252adfd59e1,dizzily.toys,available,14.98,82.48,medium,low,7,namecheap,,,14/09/2026 13:29
 f36a55b2-40bc-4a3c-807f-1e829530b1e5,economical.toys,available,17.99,64.99,high,low,10,namesilo,,,24/09/2026 13:25
+cc75c8e0-7a61-484d-af56-c1813ce50628,virgil.toys,available,13.14,51.95,high,low,6,spaceship,,,28/09/2026 02:58
 d8a7b441-f77a-40e4-acaf-5d6a0a1f7cae,terse.toys,available,14.98,82.48,medium,low,5,namecheap,,,22/08/2026 18:16
 4bb99603-62cb-4bda-b1cb-add62dfbf282,colon.toys,available,17.99,64.99,high,low,5,namesilo,,,20/09/2026 15:16
 57270303-beb9-4c25-bcb4-e028bdd9c00f,bucks.toys,available,19.99,84.99,high,low,5,name.com,,,25/09/2026 13:26
@@ -82,8 +84,9 @@ db191122-e645-4057-ac45-79b06603fa7b,doha.toys,available,17.99,64.99,high,low,4,
 3e53a202-783e-476f-9e51-94bcd611586d,embracing.toys,available,19.99,,high,low,9,name.com,,,
 a98c3e4f-9696-4b92-ae1f-9f96d4763299,deformity.toys,available,14.98,82.48,medium,low,9,namecheap,,,24/09/2026 21:21
 f7d150a4-7ec1-450e-bd6e-baf7e1fae7a3,tined.toys,available,14.98,82.48,medium,low,5,namecheap,,,09/09/2026 03:20
-5fdd7d96-b3fb-4e6e-a188-6b6d51a57a81,artfully.toys,available,14.98,82.48,high,low,8,namecheap,,,13/09/2026 20:53
+5fdd7d96-b3fb-4e6e-a188-6b6d51a57a81,artfully.toys,available,14.98,82.48,medium,low,8,namecheap,,,13/09/2026 20:53
 fc179e7e-7790-4a1a-b8db-2a3a2e0bbf80,schematic.toys,available,14.98,82.48,high,low,9,namecheap,,,09/09/2026 23:02
+440d2a43-ce8f-40b3-97c8-2e3500ff79e0,lad.toys,available,14.98,82.48,high,low,3,namecheap,,,28/09/2026 00:53
 e2e3cfc6-0e73-4587-a476-5b3711327c9d,vertebrate.toys,available,14.98,82.48,medium,low,10,namecheap,,,13/09/2026 04:35
 e2bbf8bd-5a12-40d5-a5d4-f96a48a047b4,curator.toys,available,14.98,82.48,high,low,7,namecheap,,,24/09/2026 17:27
 42e4f25c-16f6-427d-b90a-a0b9dfb34ea4,untouched.toys,available,14.98,82.48,high,low,9,namecheap,,,12/09/2026 13:20
@@ -93,11 +96,11 @@ e2bbf8bd-5a12-40d5-a5d4-f96a48a047b4,curator.toys,available,14.98,82.48,high,low
 668b92b8-2089-4a66-bded-e6358663de5c,motivate.toys,available,19.99,84.99,high,low,8,name.com,,,27/09/2026 07:34
 21a4fbfe-af48-4c8e-a6bd-4bf19147524b,assertion.toys,available,17.99,64.99,high,low,9,namesilo,,,20/09/2026 16:14
 99514e80-d8ae-43a1-a5c4-642d85ee1a60,september.toys,available,19.99,,high,low,9,name.com,,,
-91b961b9-3fbc-45c8-9224-4cb06f6df98a,vivaldi.toys,available,17.99,64.99,high,low,7,namesilo,,,19/09/2026 15:40
+91b961b9-3fbc-45c8-9224-4cb06f6df98a,vivaldi.toys,available,17.99,64.99,medium,low,7,namesilo,,,19/09/2026 15:40
 273059db-a57d-4369-b55b-4fc7da787565,disdain.toys,available,17.99,64.99,medium,low,7,namesilo,,,24/09/2026 17:41
 41e84f27-b637-48f1-ad56-0d761a01a933,eventually.toys,available,14.98,82.48,high,low,10,namecheap,,,14/09/2026 16:32
 4b45492a-4629-4a71-8f74-8093a0777b8c,lunisolar.toys,available,14.98,82.48,medium,low,9,namecheap,,,24/08/2026 11:31
-f982e721-3e77-48fb-8c7b-358acbf25f4c,hangover.toys,available,19.99,,high,low,9,name.com,,,
+f982e721-3e77-48fb-8c7b-358acbf25f4c,hangover.toys,available,19.99,,medium,low,9,name.com,,,
 2a845295-ba95-4385-a0ba-3be31d4254be,brigand.toys,available,17.99,64.99,medium,low,7,namesilo,,,22/09/2026 01:20
 064f9ba1-a9db-4ce8-8167-bd02b25eafa3,grands.toys,available,17.99,64.99,medium,low,6,namesilo,,,20/09/2026 04:57
 790460d1-1668-4c73-9813-ae82f271ac65,filming.toys,available,19.99,,high,low,7,name.com,,,
@@ -110,9 +113,9 @@ e3c11fd1-05b0-4c78-8163-e360f5a5f08e,almsgiving.toys,available,17.99,64.99,high,
 f2c9b68a-614e-4e35-a7b4-03e8268a18ca,cactus.toys,available,17.99,64.99,high,low,6,namesilo,,,24/09/2026 11:36
 dbc7c97e-b0dd-4286-a261-e37e9c680ed7,cometary.toys,available,14.98,82.48,medium,low,8,namecheap,,,12/08/2026 18:56
 01cdeb73-0443-4689-af4b-1ba662120aba,cashier.toys,available,17.99,64.99,high,low,7,namesilo,,,22/09/2026 02:24
-3d05eb00-54ec-43cb-9e51-13885c1fa005,cantabile.toys,available,14.98,82.48,high,low,9,namecheap,,,11/08/2026 17:38
+3d05eb00-54ec-43cb-9e51-13885c1fa005,cantabile.toys,available,14.98,82.48,medium,low,9,namecheap,,,11/08/2026 17:38
 83b8a97b-bd8d-4c46-bd62-bbdbfcb50f5b,lerner.toys,available,17.99,64.99,high,low,6,namesilo,,,18/09/2026 01:44
-cc31126a-2059-4c35-b7eb-176e9affa163,episodic.toys,available,14.98,82.48,high,low,8,namecheap,,,17/08/2026 11:11
+cc31126a-2059-4c35-b7eb-176e9affa163,episodic.toys,available,14.98,82.48,medium,low,8,namecheap,,,17/08/2026 11:11
 0c6566ef-89d3-432b-bb7a-0fa55937b56a,malay.toys,available,14.98,82.48,high,low,5,namecheap,,,24/08/2026 13:42
 e3b258eb-597c-4433-8d3a-698ca4c3b455,alaska.toys,available,19.99,,high,low,6,name.com,,,
 47ff1513-a01e-4eb2-8510-c1e7bfb3292a,roofless.toys,available,14.98,82.48,medium,low,8,namecheap,,,14/08/2026 12:09
@@ -124,14 +127,15 @@ f6c75331-096f-4aa3-bf9b-6ed6b1b4bce0,forsake.toys,available,14.98,82.48,medium,l
 dac37448-d7d1-4427-9367-3e78bec2af00,vagabond.toys,available,14.98,82.48,high,low,8,namecheap,,,14/08/2026 19:16
 a6940973-d36c-46fc-9d5b-c2f59e7f11cb,kyle.toys,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 12:33
 160a9c80-0f41-488c-970c-d3fa30062cc7,chagrined.toys,available,14.98,82.48,medium,low,9,namecheap,,,
-3698aae9-c1df-4fb1-a207-260859923859,splendidly.toys,available,14.98,82.48,high,low,10,namecheap,,,14/09/2026 16:44
+47895324-209a-4613-8f72-cd774d203683,execute.toys,available,10.81,52.01,high,low,7,porkbun,,,27/09/2026 16:26
+3698aae9-c1df-4fb1-a207-260859923859,splendidly.toys,available,14.98,82.48,medium,low,10,namecheap,,,14/09/2026 16:44
 5f5a3d3f-2155-4502-996b-eff6b1355831,dances.toys,available,19.99,,high,low,6,name.com,,,
 0e4cfb0d-55b0-46d2-94d0-8682513b66ce,unkempt.toys,available,14.98,82.48,medium,low,7,namecheap,,,12/09/2026 14:07
 6b60ae0b-0058-41a1-83d3-5461f8077e25,laic.toys,available,14.98,82.48,medium,low,4,namecheap,,,22/08/2026 18:47
 80067772-13c4-4d71-b2ff-eb8347654d14,influenced.toys,available,19.99,,high,low,10,name.com,,,
 2d6bc6e1-83a2-4c4a-89ac-1303df9168cf,bradley.toys,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 02:09
 ad9706d1-8416-479a-884b-f20f61ae89ea,exercising.toys,available,19.99,,high,low,10,name.com,,,
-05c6418c-91e7-4621-acbe-4cf8c7a1b74b,bodies.toys,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 16:46
+05c6418c-91e7-4621-acbe-4cf8c7a1b74b,bodies.toys,available,17.99,64.99,medium,low,6,namesilo,,,25/09/2026 16:46
 9dcb3c20-5af2-4ccc-8af4-ce320fcc5ca2,acme.toys,resell,,,high,medium,4,"GoDaddy.com, LLC",12/10/2017 17:30,12/10/2027 17:30,26/09/2026 01:21
 86b7e0c4-3597-4920-a3d5-7c01a6dc29d2,rna.toys,available,17.99,64.99,high,low,3,namesilo,,,25/09/2026 10:20
 95529117-cac7-4ec8-ba1a-b9269d456f6f,weapons.toys,available,17.99,64.99,medium,low,7,namesilo,,,25/09/2026 17:10
@@ -143,12 +147,14 @@ dcca6c45-62e7-4903-9bfb-f55a314a7079,brutality.toys,available,17.99,64.99,medium
 6edac329-8843-421f-8fd5-ed8882dfc228,batiste.toys,available,17.99,64.99,medium,low,7,namesilo,,,22/09/2026 14:05
 005c318e-3279-410b-b4e6-7127bcfaa086,propranolol.toys,available,17.99,64.99,high,low,11,namesilo,,,20/09/2026 00:29
 7047fdb0-5498-450b-b7ea-028fc8edac5e,applecart.toys,available,14.98,82.48,medium,low,9,namecheap,,,19/09/2026 21:32
+97d845da-6a53-4095-a976-f7ba9cd72276,wipe.toys,available,17.99,64.99,high,low,4,namesilo,,,27/09/2026 16:23
 6da4d245-6387-42a1-8e56-1dbc257b803b,abel.toys,available,17.99,64.99,high,low,4,namesilo,,,16/09/2026 14:57
 85da11d5-fe35-4bbe-9729-adc01f7b5c65,hearts.toys,available,19.99,,high,low,6,name.com,,,
 3d96596e-14ad-4eef-a8e5-3a6c4169d8c2,phantom.toys,available,14.98,82.48,high,low,7,namecheap,,,08/09/2026 18:32
 4de9d811-6203-4a3e-8fd1-dc13d191a974,stomach.toys,available,17.99,64.99,high,low,7,namesilo,,,16/09/2026 14:47
 274839bb-9681-4a6f-afdc-ec9470a3eb13,recoil.toys,available,17.99,64.99,high,low,6,namesilo,,,21/09/2026 15:32
-da42a202-29ca-4813-838e-609b0be81c8b,rime.toys,available,14.98,82.48,high,low,4,namecheap,,,21/08/2026 10:08
+da42a202-29ca-4813-838e-609b0be81c8b,rime.toys,available,14.98,82.48,medium,low,4,namecheap,,,21/08/2026 10:08
+d87920e6-d4cf-4d1d-b2dc-1888e6cbbcca,sector.toys,available,17.99,64.99,high,low,6,namesilo,,,28/09/2026 03:04
 351462d6-41ca-405e-8be0-d9a13bfaa840,swinburne.toys,available,17.99,64.99,high,low,9,namesilo,,,18/09/2026 07:03
 970b8ebd-2503-4b2c-8be4-bc2c98d464cc,soaking.toys,available,14.98,82.48,medium,low,7,namecheap,,,14/09/2026 14:28
 4121d347-33c9-4f52-bbc2-5f0663ca7aea,acquirable.toys,available,14.98,82.48,medium,low,10,namecheap,,,
@@ -159,7 +165,7 @@ e3b4dd75-2c17-40d3-9afb-914699c947ee,sulky.toys,available,14.98,82.48,medium,low
 7ec5a3d7-4e08-4bb3-9334-c9da2bbb83bf,whorled.toys,available,14.98,82.48,medium,low,7,namecheap,,,12/08/2026 16:18
 976ba964-5d2c-4eb9-b43b-5fe31b85e36d,gingery.toys,available,14.98,82.48,high,low,7,namecheap,,,18/08/2026 23:53
 62cc837a-323a-4765-b767-5ae4e49bbac2,continent.toys,available,14.98,82.48,high,low,9,namecheap,,,11/08/2026 23:26
-e16e4b90-0465-4830-aabe-4445d5bfd6b5,hieroglyph.toys,available,14.98,82.48,high,low,10,namecheap,,,21/08/2026 08:33
+e16e4b90-0465-4830-aabe-4445d5bfd6b5,hieroglyph.toys,available,14.98,82.48,medium,low,10,namecheap,,,21/08/2026 08:33
 a161661e-805a-42c8-95e3-f8c7effc48ad,nipponese.toys,available,14.98,82.48,medium,low,9,namecheap,,,22/08/2026 12:24
 1ae49d02-f2e6-4b01-b4e5-03325882a8b4,molecules.toys,available,19.99,,medium,low,9,name.com,,,
 2a4ec345-4265-44ad-a9cb-4f6a00a30604,dissolver.toys,available,14.98,82.48,medium,low,9,namecheap,,,10/09/2026 13:52
@@ -173,18 +179,19 @@ f4c73862-3438-45b6-97a5-0b1e8a74a929,sending.toys,available,17.99,64.99,high,low
 04706628-bd1b-4ced-acb6-f0a84ae398ca,nugatory.toys,available,14.98,82.48,low,low,8,namecheap,,,03/09/2026 22:26
 129924c0-1b3b-4c7f-a49a-9209e0710fb6,graceless.toys,available,14.98,82.48,medium,low,9,namecheap,,,18/08/2026 20:43
 dc94a421-e096-4a04-967d-6e94d9d735c0,plantal.toys,available,14.98,82.48,medium,low,7,namecheap,,,08/09/2026 20:48
-558cb545-1dc4-4645-a1b3-ef9a59d82670,starting.toys,available,19.99,,high,low,8,name.com,,,
+558cb545-1dc4-4645-a1b3-ef9a59d82670,starting.toys,available,13.14,51.95,high,low,8,spaceship,,,28/09/2026 00:44
 3aa4d4ff-8065-4ddc-b14a-8d0ea8cf81fb,erwin.toys,available,17.99,64.99,high,low,5,namesilo,,,27/09/2026 01:41
 9f5b890f-47bf-408b-bd81-2f5dcd27e80e,victorious.toys,available,14.98,82.48,high,low,10,namecheap,,,13/09/2026 05:28
 b2ad684d-143c-43da-aa4b-e005bdf75c81,abruzzi.toys,available,17.99,64.99,medium,low,7,namesilo,,,16/09/2026 17:28
 a6112fa4-5fd2-45e2-8398-8ef647e4a228,eased.toys,available,14.98,82.48,high,low,5,namecheap,,,
-17580bd1-d2f5-42db-9d23-77a858e51a4c,amiss.toys,available,14.98,82.48,high,low,5,namecheap,,,
+17580bd1-d2f5-42db-9d23-77a858e51a4c,amiss.toys,available,14.98,82.48,medium,low,5,namecheap,,,
 58f7f3f4-facc-491c-bcb8-4fc1dcaea5f8,impacted.toys,available,14.98,82.48,medium,low,8,namecheap,,,21/08/2026 21:36
 a2e7ad12-b12f-4f89-bf36-a7784910d423,ordinal.toys,available,14.98,82.48,high,low,7,namecheap,,,04/09/2026 17:44
 5b9769b7-87a9-4838-9d53-613347316ade,verbalise.toys,available,14.98,82.48,medium,low,9,namecheap,,,13/09/2026 00:16
 88ced5ab-0860-4f12-9e68-a047f639271c,mile.toys,available,19.99,,high,low,4,name.com,,,
 152056e9-ec02-4d12-8cfe-79aa549fadb7,inward.toys,available,14.98,82.48,high,low,6,namecheap,,,21/08/2026 23:34
 34f2a6dd-f5b1-4279-982a-32d1cd6a6510,copula.toys,available,14.98,82.48,medium,low,6,namecheap,,,13/08/2026 00:42
+8c4ba39a-946c-4368-928c-76990f063ff4,freiburg.toys,available,17.99,64.99,high,low,8,namesilo,,,28/09/2026 03:48
 fc71c356-a25d-4363-8ecc-c64280b6dabe,nigh.toys,available,14.98,82.48,medium,low,4,namecheap,,,12/08/2026 12:04
 e09cde96-4500-4eef-ac37-e13a715dd011,whoreson.toys,available,14.98,82.48,low,low,8,namecheap,,,08/08/2026 23:43
 282c60c8-a28c-45c8-82d3-751ca96cca64,stronger.toys,available,19.99,,high,low,8,name.com,,,
@@ -192,6 +199,7 @@ e09cde96-4500-4eef-ac37-e13a715dd011,whoreson.toys,available,14.98,82.48,low,low
 cf570f85-386a-4c3f-937e-4d777c26f406,optional.toys,available,14.98,82.48,high,low,8,namecheap,,,04/09/2026 17:10
 4f8f6b79-67f3-4c79-a715-9b642eae96ea,relationship.toys,available,19.99,,high,low,12,name.com,,,
 f7978dbd-afeb-4963-b34b-b1e00829caef,lutecium.toys,available,17.99,64.99,medium,low,8,namesilo,,,20/09/2026 23:39
+58783f09-9628-49ca-88ea-35ef6426622e,goodness.toys,available,13.99,111.99,high,low,8,godaddy,,,28/09/2026 02:02
 d8716cf9-0a07-4450-9bba-e9ce7a19cc52,comical.toys,available,17.99,64.99,high,low,7,namesilo,,,23/09/2026 15:19
 1a3aac07-7bfc-4bca-9d15-a26ee430af62,puglia.toys,available,17.99,64.99,high,low,6,namesilo,,,19/09/2026 22:41
 d5cd9857-ca58-4f55-83a6-da07346c03ca,hardheaded.toys,available,14.98,82.48,medium,low,10,namecheap,,,21/08/2026 00:26
@@ -211,10 +219,13 @@ a07cfb98-23a2-46e0-b103-afeeda9730cc,authorised.toys,available,14.98,82.48,high,
 f88369b6-be5b-45d9-968b-ff282ad2e3a5,cad.toys,premium,128.7,128.7,high,low,3,namecheap,,,24/09/2026 02:18
 7cc9b4a6-2421-4aa8-98ef-3b8d78086949,revenue.toys,available,19.99,,high,low,7,name.com,,,
 f408fb71-e002-4c4f-b717-87582da255ad,dying.toys,available,17.99,64.99,high,low,5,namesilo,,,24/09/2026 12:37
+e3278c0c-49f3-4689-b899-16bc6f38440a,buchanan.toys,available,13.14,51.95,high,low,8,spaceship,,,28/09/2026 01:11
 caf27ae4-8987-4ce3-8e7d-d9b4f39d7360,forrad.toys,available,14.98,82.48,medium,low,6,namecheap,,,18/08/2026 12:58
 f47e81b9-7b74-4014-87cf-378c79313e64,fetching.toys,available,14.98,82.48,high,low,8,namecheap,,,18/08/2026 02:20
 513b744c-90ab-4c93-b327-76ae6776f1a5,surgically.toys,available,17.99,64.99,medium,low,10,namesilo,,,16/09/2026 07:41
-cffaa4bd-1c16-465b-be60-131073c7cf8e,files.toys,available,14.98,82.48,high,low,5,namecheap,,,25/09/2026 18:34
+5fb8ca72-eca1-4af0-b482-8a1ab6f8b69c,restore.toys,available,14.98,82.48,high,low,7,namecheap,,,28/09/2026 01:17
+024c7b10-86a4-480a-8b7b-3b38f61a8667,enrollment.toys,available,17.99,64.99,high,low,10,namesilo,,,28/09/2026 02:45
+cffaa4bd-1c16-465b-be60-131073c7cf8e,files.toys,available,14.98,82.48,medium,low,5,namecheap,,,25/09/2026 18:34
 49703c94-52d5-4784-92db-2d0ab8d5d2b7,munchausen.toys,available,17.99,64.99,medium,low,10,namesilo,,,22/09/2026 07:14
 0067c05b-1478-4fae-bed7-29c22d20e19c,ourselves.toys,available,17.99,64.99,medium,low,9,namesilo,,,27/09/2026 08:55
 feaeec28-5e7d-4bf8-b59b-1b741d624ca8,ano.toys,available,17.99,64.99,high,low,3,namesilo,,,16/09/2026 18:45
@@ -224,15 +235,16 @@ a1c34970-4135-47f8-a6bf-44a7b823c5b5,proportion.toys,available,19.99,,high,low,1
 db7ad6d0-ddb1-49b7-9085-5561844762a6,femoral.toys,available,14.98,82.48,medium,low,7,namecheap,,,18/08/2026 01:05
 2aa934de-006c-42d3-8e6f-5a7245e593db,handily.toys,available,14.98,82.48,medium,low,7,namecheap,,,14/09/2026 08:35
 9b6bb31f-fb10-48e2-b6f7-289c6f8f5673,casey.toys,available,14.98,82.48,high,low,5,namecheap,,,25/09/2026 18:12
+68966d8e-c1d1-4ab4-934f-5338a6090d7e,harriet.toys,available,17.99,64.99,high,low,7,namesilo,,,27/09/2026 22:29
 abdd9666-40e2-4a0a-8229-cdcfade1f8a0,unmixed.toys,available,14.98,82.48,medium,low,7,namecheap,,,12/09/2026 06:02
 088b4598-02aa-4749-bef8-fe7a3caaa7b1,room.toys,available,17.99,64.99,high,low,4,namesilo,,,23/09/2026 08:08
 6f7de6cd-9954-4e4a-9975-06b375b19eb9,ambitious.toys,available,14.98,82.48,high,low,9,namecheap,,,22/09/2026 03:59
-7c2b8101-0704-4bbb-9c88-5643e4bdeb1a,anorak.toys,available,17.99,64.99,high,low,6,namesilo,,,19/09/2026 11:41
+7c2b8101-0704-4bbb-9c88-5643e4bdeb1a,anorak.toys,available,17.99,64.99,medium,low,6,namesilo,,,19/09/2026 11:41
 bdeba2f7-253a-45c2-aa08-dccacca808c2,shelton.toys,available,17.99,64.99,medium,low,7,namesilo,,,27/09/2026 01:50
 5a2564be-226c-44a8-8c6d-e1fe20256b74,auspice.toys,available,17.99,64.99,high,low,7,namesilo,,,21/09/2026 04:36
 2cc78dd4-a166-4e09-942d-90ec841db37b,arty.toys,available,14.98,82.48,high,low,4,namecheap,,,06/08/2026 23:51
 63d2c0fe-74b4-4f6f-bf5e-0f8ff6b05c16,starkers.toys,available,14.98,82.48,low,low,8,namecheap,,,10/09/2026 18:51
-fd0ebbd2-3644-4fe0-8c52-05be852c7111,indistinct.toys,available,14.98,82.48,high,low,10,namecheap,,,22/08/2026 03:14
+fd0ebbd2-3644-4fe0-8c52-05be852c7111,indistinct.toys,available,14.98,82.48,medium,low,10,namecheap,,,22/08/2026 03:14
 39bc4a3d-1b7b-409a-9711-5eaa607f87ff,specular.toys,available,14.98,82.48,medium,low,8,namecheap,,,25/08/2026 01:15
 d811b3f9-560a-4f2a-b5ea-e5d1d4c60a3d,sam.toys,available,19.99,,high,medium,3,name.com,,,
 923cf823-7f8c-4753-b101-da13936eb75f,scoops.toys,available,17.99,64.99,medium,low,6,namesilo,,,20/09/2026 12:19
@@ -250,7 +262,7 @@ c59e2b34-b252-4ac3-9534-c2d7ef0d2969,banyan.toys,available,14.98,82.48,high,low,
 837dcd2e-c758-4e42-92ab-2b5912e7732c,chemical.toys,available,14.98,82.48,high,low,8,namecheap,,,08/09/2026 15:30
 e8fd6ea8-b294-4cfc-a24d-2c2c6997a93d,customs.toys,available,14.98,82.48,high,low,7,namecheap,,,24/09/2026 20:42
 d1fb1b16-8c98-4888-929f-0f83aafe72ce,beefcake.toys,available,17.99,64.99,medium,low,8,namesilo,,,23/09/2026 01:06
-488b96b7-ba59-4d59-85e7-b12ba8300186,revolved.toys,available,19.99,,medium,low,8,name.com,,,
+488b96b7-ba59-4d59-85e7-b12ba8300186,revolved.toys,available,10.92,53.72,medium,low,8,dynadot,,,27/09/2026 14:41
 2cd60f48-e02c-428a-92f6-d9363e63d23a,sapiens.toys,available,17.99,64.99,high,low,7,namesilo,,,19/09/2026 15:49
 020f25c4-b128-4b1e-aa35-b0fc1944b17d,presumably.toys,available,14.98,82.48,medium,low,10,namecheap,,,15/09/2026 21:20
 63bd959c-3b74-4bf4-b056-50640e8f2866,metrical.toys,available,14.98,82.48,high,low,8,namecheap,,,24/08/2026 22:08
@@ -268,7 +280,7 @@ d9b23357-17e3-4d8e-a521-013565340da5,craven.toys,available,14.98,82.48,medium,lo
 2521a2cb-afbb-484b-9510-d5d5343f55ac,protocols.toys,available,17.99,64.99,medium,low,9,namesilo,,,19/09/2026 04:47
 f66eb097-6758-4e14-b5a9-0ca5ce1659cb,quintette.toys,available,14.98,82.48,medium,low,9,namecheap,,,09/09/2026 09:00
 775ca80d-cd06-4ccc-a6a1-ad3d54aa42f1,elongate.toys,available,14.98,82.48,high,low,8,namecheap,,,16/08/2026 05:24
-995e39ec-f6ea-45cb-b7a7-d9e3a5eecc66,virile.toys,available,14.98,82.48,high,low,6,namecheap,,,13/09/2026 06:04
+995e39ec-f6ea-45cb-b7a7-d9e3a5eecc66,virile.toys,available,14.98,82.48,medium,low,6,namecheap,,,13/09/2026 06:04
 fda7b0c9-2528-482d-baef-1669664edc7f,refundable.toys,available,19.99,,high,low,10,name.com,,,
 8e23606f-3a6e-4b18-a618-6167cdef5123,authorial.toys,available,14.98,82.48,medium,low,9,namecheap,,,07/08/2026 16:19
 badd9d6d-7700-4a67-9931-b6f8726cc780,inordinate.toys,available,14.98,82.48,medium,low,10,namecheap,,,17/08/2026 16:17
@@ -299,16 +311,18 @@ c910606c-7c50-45c7-9df3-0fb9e30f2c5f,surprise.toys,resell,,,high,low,8,"Sav.com,
 57b5053e-f487-4d6a-a4d9-dbe892e8aa26,demotic.toys,available,14.98,82.48,medium,low,7,namecheap,,,14/08/2026 01:35
 8f425349-b189-4817-9a3b-1c36509f3f1e,stupidity.toys,available,17.99,64.99,medium,low,9,namesilo,,,23/09/2026 11:18
 afe4b3bb-9ec0-48a9-adad-bc0c19ad52d2,purple.toys,available,14.98,82.48,high,medium,6,namecheap,,,24/09/2026 13:58
-c487be5e-542b-4a0b-a6e8-309a03636938,smoke.toys,available,19.99,,high,low,5,name.com,,,
+c487be5e-542b-4a0b-a6e8-309a03636938,smoke.toys,available,10.81,52.01,high,low,5,porkbun,,,27/09/2026 23:23
+6af04c64-2061-4de4-b718-621fb2c61ecd,sheriff.toys,available,13.14,51.95,high,low,7,spaceship,,,27/09/2026 15:50
 b1541cc3-a031-4d48-8fcb-f146b196be50,woeful.toys,available,14.98,82.48,medium,low,6,namecheap,,,17/08/2026 16:46
 cf7ab665-9a31-4030-af71-e8b5a48df41e,mastered.toys,available,14.98,82.48,high,low,8,namecheap,,,14/08/2026 17:35
 3e625675-b4de-4892-a3a5-b385e3f5acc6,germinal.toys,available,14.98,82.48,medium,low,8,namecheap,,,18/08/2026 22:49
 5eb6499d-6cc1-4a6e-bdc1-27cdedb2eb66,discussing.toys,available,17.99,64.99,medium,low,10,namesilo,,,27/09/2026 11:01
+743114f3-0b50-4af8-bdef-57fe5a811de7,chickens.toys,available,13.14,51.95,medium,low,8,spaceship,,,27/09/2026 22:56
 952d503d-bd7b-48a4-95f9-dd9d43d27d09,unpunished.toys,available,14.98,82.48,medium,low,10,namecheap,,,12/09/2026 17:37
 47277eab-8f38-4c06-aafc-f8e22ab955e9,hitless.toys,available,14.98,82.48,medium,low,7,namecheap,,,20/08/2026 15:56
 3936f38a-836a-4ed7-8454-12781de2e9e2,eminent.toys,available,14.98,82.48,high,low,7,namecheap,,,16/08/2026 15:06
 302263f9-e3ca-4279-bc18-4fa204b76439,virtuous.toys,available,14.98,82.48,high,low,8,namecheap,,,13/09/2026 06:06
-13dfc678-5a4e-4b6b-b020-8da269040a93,operation.toys,available,17.99,64.99,high,low,9,namesilo,,,25/09/2026 04:49
+13dfc678-5a4e-4b6b-b020-8da269040a93,operation.toys,available,10.81,52.01,high,low,9,porkbun,,,28/09/2026 02:52
 6e4a8bf6-6d05-476c-9dc8-89e9e8939ecc,unclutter.toys,available,14.98,82.48,high,low,9,namecheap,,,12/08/2026 10:28
 5cae50d5-4939-43f5-9554-1868398afd8b,crowns.toys,available,17.99,64.99,medium,low,6,namesilo,,,18/09/2026 06:26
 fec0bf01-04d3-4b86-8a8d-e12fafab2dd9,inwards.toys,available,14.98,82.48,high,low,7,namecheap,,,21/08/2026 23:32
@@ -346,7 +360,7 @@ d928ab0c-be41-4e65-a9c2-1f21d78ecf3e,tools.toys,premium,242,242,high,medium,5,na
 adcd4737-5835-4bd9-8e5b-2c7f940c90eb,alice.toys,available,17.99,64.99,high,medium,5,namesilo,,,25/09/2026 13:23
 b27f4f7e-39ed-454a-8250-71dce473690d,operable.toys,available,14.98,82.48,medium,low,8,namecheap,,,04/09/2026 16:20
 e71c5875-8619-4423-9ea3-9525809220be,dressing.toys,available,17.99,64.99,high,low,8,namesilo,,,22/09/2026 00:55
-92c38f8e-7091-4982-a119-819987df2d25,breathless.toys,available,14.98,82.48,high,low,10,namecheap,,,11/08/2026 03:23
+92c38f8e-7091-4982-a119-819987df2d25,breathless.toys,available,14.98,82.48,medium,low,10,namecheap,,,11/08/2026 03:23
 45eebb81-a883-41aa-a741-2d5d44a9d05f,distaste.toys,available,17.99,64.99,medium,low,8,namesilo,,,19/09/2026 14:55
 cd5a3ae0-7d0e-4bd3-b96e-9e9c5d615b95,fabled.toys,available,14.98,82.48,high,low,6,namecheap,,,17/08/2026 20:12
 fe2a13a7-6b7c-4f7f-9780-70894c7a3b6c,amberbell.toys,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 16:32
@@ -377,6 +391,7 @@ a7269715-4cae-4323-8a06-3fc573d05e6e,terminal.toys,available,14.98,82.48,high,lo
 6db913aa-2a35-4929-a8f6-2ae9e8179df4,skull.toys,available,14.98,82.48,high,low,5,namecheap,,,26/09/2026 00:19
 8e567044-c4df-4fbe-a324-65e3e1e4fb02,masterly.toys,available,14.98,82.48,high,low,8,namecheap,,,23/09/2026 21:40
 d859c051-a82e-40b5-b8dc-93221087eefe,analytic.toys,available,14.98,82.48,high,low,8,namecheap,,,
+cef9364e-d395-4234-a764-c0c2ed9a5bd5,pradesh.toys,available,17.99,64.99,high,low,7,namesilo,,,28/09/2026 03:36
 97e26bcb-0cd3-48ea-bf14-1c33f4a47dd2,vaughan.toys,available,14.98,82.48,high,low,7,namecheap,,,25/09/2026 10:35
 45319990-cd9a-4b82-a099-0f19161b05a6,vector.toys,available,,,high,low,6,,,,
 d1916dc2-5dd3-471e-a725-c30fb29e7910,gaseous.toys,available,14.98,82.48,medium,low,7,namecheap,,,18/08/2026 20:25
@@ -393,12 +408,13 @@ c33bfbc2-c822-412a-b905-a4bb359304d6,pratt.toys,available,17.99,64.99,high,low,5
 68e5db7a-7ade-40cf-8e54-fc916bbe3660,exclude.toys,available,17.99,64.99,high,low,7,namesilo,,,22/09/2026 03:43
 ecac5bb7-ec6c-4717-910f-a03cea46433a,territory.toys,available,19.99,,high,low,9,name.com,,,
 2b0c4a75-9fc3-464b-ad33-b554862b676b,chin.toys,available,19.99,,high,low,4,name.com,,,
-cf2a305f-6224-4620-ae8d-c8ce1014129a,adviseable.toys,available,19.99,,high,low,10,name.com,,,
+cf2a305f-6224-4620-ae8d-c8ce1014129a,adviseable.toys,available,19.99,,medium,low,10,name.com,,,
 529f1877-1de8-4496-a9b8-a2738bf4b622,andantino.toys,available,14.98,82.48,medium,low,9,namecheap,,,
 84d870b2-4497-43da-97da-1343b2eaf41a,georgian.toys,available,14.98,82.48,high,low,8,namecheap,,,18/08/2026 22:37
 04f21f5e-ea77-44f6-b37f-8a911a899b8b,halab.toys,available,17.99,64.99,medium,low,5,namesilo,,,18/09/2026 05:12
 a86eef9a-a6b1-4e55-b9f4-d314ba2f18f0,dalmatian.toys,available,19.99,84.99,high,low,9,name.com,,,13/08/2026 16:00
-6262fc39-0e53-440a-9a03-2907dac69c92,tyro.toys,available,17.99,64.99,high,low,4,namesilo,,,23/09/2026 02:27
+6262fc39-0e53-440a-9a03-2907dac69c92,tyro.toys,available,17.99,64.99,medium,low,4,namesilo,,,23/09/2026 02:27
+d04a9a84-dc44-45b9-b4ba-a27c9f006863,camel.toys,available,17.99,64.99,high,low,5,namesilo,,,28/09/2026 01:20
 21311463-3b66-40bd-9d35-5b592b89a892,vindictive.toys,available,14.98,82.48,medium,low,10,namecheap,,,14/08/2026 04:21
 07c4b166-1cd5-4fe8-9aad-c8a46e104cfb,witloof.toys,available,17.99,64.99,medium,low,7,namesilo,,,23/09/2026 05:01
 a98420b8-485f-4a66-845b-ab79637f87e4,deception.toys,available,17.99,64.99,high,low,9,namesilo,,,24/09/2026 17:22
@@ -425,8 +441,8 @@ bcc1d784-57a9-4297-baf8-052055e9e304,niner.toys,available,14.98,82.48,medium,low
 c012a5ae-b805-4fa4-9c7e-142a66580239,austral.toys,available,14.98,82.48,medium,low,7,namecheap,,,07/08/2026 18:26
 15e1f162-aea6-4614-a80d-1300f670ef3e,euphoric.toys,available,14.98,82.48,high,low,8,namecheap,,,17/08/2026 14:22
 1a16338d-71de-4ddd-b748-b28550375541,brummagem.toys,available,14.98,82.48,medium,low,9,namecheap,,,11/08/2026 06:42
-1dec5a29-5218-4f1f-b893-5b8f9e15efe5,estimable.toys,available,14.98,82.48,high,low,9,namecheap,,,12/08/2026 19:44
-98bdaa0d-5ee9-4a50-b02b-018cdab073c0,rushed.toys,available,19.99,,high,low,6,name.com,,,
+1dec5a29-5218-4f1f-b893-5b8f9e15efe5,estimable.toys,available,14.98,82.48,medium,low,9,namecheap,,,12/08/2026 19:44
+98bdaa0d-5ee9-4a50-b02b-018cdab073c0,rushed.toys,available,13.14,51.95,high,low,6,spaceship,,,27/09/2026 17:29
 31ab5026-8a70-4c4b-ad0d-42d9aeea173d,inaudible.toys,available,14.98,82.48,medium,low,9,namecheap,,,22/08/2026 00:33
 96c307c1-a15b-4d98-b8a7-3e4c8e16afdd,solemn.toys,available,14.98,82.48,high,low,6,namecheap,,,14/08/2026 22:33
 8db2d9b2-043d-4e0a-8e0e-3b1adae56843,bifacial.toys,available,14.98,82.48,medium,low,8,namecheap,,,09/08/2026 19:57
@@ -438,13 +454,14 @@ eaaf68a3-1acf-4c67-be01-ca6f016d152d,sinuate.toys,available,14.98,82.48,high,low
 5252c714-d8fa-4b07-9072-1ed2e4d7dc73,healed.toys,available,14.98,82.48,high,low,6,namecheap,,,13/08/2026 11:04
 8a0b1d37-85e0-4789-9602-8790251e73b9,down.toys,available,14.98,82.48,high,low,4,namecheap,,,24/09/2026 11:53
 bcd2a28c-10b9-456e-a719-9d534c0152fd,moonstruck.toys,available,14.98,82.48,medium,low,10,namecheap,,,24/08/2026 11:18
+cf42cdbe-e6d1-4ff1-986a-c3284854ff58,ipswich.toys,available,10.92,53.72,high,low,7,dynadot,,,27/09/2026 19:23
 6e961791-f7cc-45ca-a52c-cd9110487684,cheesecakes.toys,available,14.98,82.48,medium,low,11,namecheap,,,08/09/2026 07:37
 30756b80-b3db-4dac-a583-d891060d78b4,yoruba.toys,available,17.99,64.99,high,low,6,namesilo,,,18/09/2026 00:15
 e070c11a-5942-46aa-844b-f2d982d323a7,provencal.toys,available,14.98,82.48,medium,low,9,namecheap,,,09/09/2026 04:28
 b0a7cea4-824e-4a64-902e-542417f850dc,ambler.toys,available,14.98,82.48,medium,low,6,namecheap,,,18/09/2026 17:07
 b403d6fa-4d17-4e2f-ade5-fccd15d654a1,ebon.toys,available,14.98,82.48,medium,low,4,namecheap,,,14/08/2026 23:08
 c1039abb-7db8-45fa-a39e-677f75bd887f,assorted.toys,available,14.98,82.48,medium,low,8,namecheap,,,07/08/2026 07:25
-7a4cc33f-73d9-468a-97a0-4d37657c5739,aspirator.toys,available,17.99,64.99,high,low,9,namesilo,,,20/09/2026 15:23
+7a4cc33f-73d9-468a-97a0-4d37657c5739,aspirator.toys,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 15:23
 dfa23701-4b03-412a-8cd1-9cfbe6849bd7,dillon.toys,available,14.98,82.48,high,low,6,namecheap,,,25/09/2026 15:31
 0998c89f-2c2c-49d5-aa72-1290e1d48221,washes.toys,available,14.98,82.48,medium,low,6,namecheap,,,20/09/2026 04:54
 796b05f0-aa79-4e25-b505-3985b39f6028,archway.toys,available,17.99,64.99,high,low,7,namesilo,,,20/09/2026 02:39
@@ -459,16 +476,17 @@ e28feb79-bc1a-4fb7-a069-bf4c6848f7f5,standardize.toys,available,19.99,,high,low,
 bac31c63-c956-4aaa-ae93-5ef0d9bdb5f4,pharmaceutical.toys,available,14.98,82.48,high,low,14,namecheap,,,19/09/2026 04:12
 1505a077-0588-49ae-845a-d0735eeb138f,youngish.toys,available,14.98,82.48,medium,low,8,namecheap,,,13/09/2026 14:49
 1bd2b304-36da-4c8d-b228-7c01a49a4d3f,patterned.toys,available,14.98,82.48,high,low,9,namecheap,,,08/09/2026 10:49
-7f5a2e60-b99a-485c-bf76-b3e6772e411f,booted.toys,available,17.99,64.99,high,low,6,namesilo,,,22/09/2026 23:43
+7f5a2e60-b99a-485c-bf76-b3e6772e411f,booted.toys,available,17.99,64.99,medium,low,6,namesilo,,,22/09/2026 23:43
 e80f7511-554e-4a76-84be-f362c88f50e7,bifurcated.toys,available,14.98,82.48,medium,low,10,namecheap,,,09/08/2026 20:24
 3f05faf1-597b-4234-83fe-8fa3a87ad22a,essay.toys,available,17.99,64.99,high,low,5,namesilo,,,21/09/2026 01:17
 67ad6e29-99c6-4855-a8f5-f755d2b2b882,heard.toys,available,14.98,82.48,high,low,5,namecheap,,,24/09/2026 23:38
 f7db7ed8-cef0-4b08-8ef0-08b4c61d2de2,coast.toys,available,19.99,,high,low,5,name.com,,,
 90a89aff-4a84-46df-8f2b-28cebe885985,threadbare.toys,available,14.98,82.48,medium,low,10,namecheap,,,08/08/2026 11:10
 174fb0d7-6ca1-4483-b28c-19211c8b1b58,vaulted.toys,available,14.98,82.48,high,low,7,namecheap,,,14/08/2026 15:39
+3a5da2a6-216d-46fe-a58f-9fb292ea2e93,shorter.toys,available,13.14,51.95,high,low,7,spaceship,,,27/09/2026 17:41
 99bcaf70-0f5f-4197-909d-3842b39533df,moonlight.toys,available,19.99,,high,low,9,name.com,,,
 dec8e3ae-8ffb-4276-8caf-0848d7cb01ce,bills.toys,available,17.99,64.99,medium,low,5,namesilo,,,18/09/2026 06:49
-7379886d-c0fb-46b0-86cb-72bd7da498ad,properly.toys,available,14.98,82.48,high,low,8,namecheap,,,13/08/2026 21:12
+7379886d-c0fb-46b0-86cb-72bd7da498ad,properly.toys,available,14.98,82.48,medium,low,8,namecheap,,,13/08/2026 21:12
 a156d6df-dbc3-426e-ad49-81d4c4ae490c,protein.toys,available,14.98,82.48,high,low,7,namecheap,,,08/09/2026 08:51
 8cedba70-ddcb-4664-a1d9-5c58d3ae721b,hardworking.toys,available,19.99,,high,low,11,name.com,,,
 9ad22362-8683-4665-8b9c-1132e4a53bc5,crackpot.toys,available,14.98,82.48,medium,low,8,namecheap,,,10/09/2026 00:10
@@ -477,9 +495,10 @@ a156d6df-dbc3-426e-ad49-81d4c4ae490c,protein.toys,available,14.98,82.48,high,low
 a946325d-652a-4b8f-8173-6fc49d522343,luminous.toys,available,14.98,82.48,high,low,8,namecheap,,,
 322b37d9-e009-4d91-b2ca-4a75e88fbdfe,chestnuts.toys,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 20:45
 fa7f7a7c-c14e-4a68-88ed-e303c4396ed5,ella.toys,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 21:52
+aee2377f-592c-4813-a9e8-035b9c9d777c,hawk.toys,available,17.99,64.99,high,low,4,namesilo,,,28/09/2026 02:04
 24d35bd6-628b-4ee7-af20-a46b0c6e0016,worlds.toys,available,17.99,64.99,high,low,6,namesilo,,,18/09/2026 17:40
 367d96d0-51be-43d8-8d71-453dbe5e76e0,autofocus.toys,available,14.98,82.48,high,low,9,namecheap,,,21/09/2026 06:19
-4b6afce9-a769-4063-b756-1fbdae94b647,amorist.toys,available,14.98,82.48,high,low,7,namecheap,,,18/09/2026 22:43
+4b6afce9-a769-4063-b756-1fbdae94b647,amorist.toys,available,14.98,82.48,medium,low,7,namecheap,,,18/09/2026 22:43
 25bc3b6e-92cf-4f6e-ae75-db1baa3c3072,chelsea.toys,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 14:48
 4c9c5ed9-f140-4423-8ff9-6844cfb511de,zovirax.toys,available,14.98,82.48,medium,low,7,namecheap,,,17/09/2026 05:42
 2fdab042-7b51-4bf9-b029-8b0b6e514a35,jovian.toys,available,14.98,82.48,medium,low,6,namecheap,,,22/08/2026 14:02
@@ -492,11 +511,11 @@ e3fa48eb-ece3-44eb-b7a9-ad7279975319,discourse.toys,available,14.98,82.48,high,l
 9caf9636-7a81-4c86-b3a6-8ae19a12ed00,holler.toys,available,17.99,64.99,high,low,6,namesilo,,,23/09/2026 00:27
 16d4503a-5b91-4432-ba06-580a5b146266,portsmouth.toys,available,17.99,64.99,high,low,10,namesilo,,,25/09/2026 10:02
 da0b5e5b-a1a9-4d4a-8ad9-1492c3ebf42f,caper.toys,available,17.99,64.99,high,low,5,namesilo,,,22/09/2026 06:32
-a2edb8f6-eb4b-4039-becd-d8a786633ad7,fried.toys,available,14.98,82.48,high,low,5,namecheap,,,13/08/2026 22:34
+a2edb8f6-eb4b-4039-becd-d8a786633ad7,fried.toys,available,14.98,82.48,medium,low,5,namecheap,,,13/08/2026 22:34
 cb02e6fb-1ea1-42f5-adda-2a46a32e19f7,partizan.toys,available,14.98,82.48,high,low,8,namecheap,,,08/09/2026 02:09
 ff0f929c-fabf-46e1-b6f2-47303ad8bb22,oak.toys,available,19.99,,high,low,3,name.com,,,
 0bf4e52e-14ef-4d67-8cb4-bb052069069c,observe.toys,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 23:53
-8da879aa-b26d-47fe-8c1a-ee27f450f707,anas.toys,available,17.99,64.99,high,low,4,namesilo,,,19/09/2026 02:30
+8da879aa-b26d-47fe-8c1a-ee27f450f707,anas.toys,available,17.99,64.99,medium,low,4,namesilo,,,19/09/2026 02:30
 e412a622-6c3f-4812-b495-7b05511142a3,overheated.toys,available,14.98,82.48,medium,low,10,namecheap,,,04/09/2026 20:47
 2ee4e452-d47b-49c0-b54f-25d1536407ca,treason.toys,available,17.99,64.99,medium,low,7,namesilo,,,23/09/2026 11:25
 3f43cb00-470d-42d7-aef7-9d0102363c5b,steamy.toys,available,14.98,82.48,medium,low,6,namecheap,,,21/08/2026 14:12
@@ -509,6 +528,7 @@ eb9f65ef-ecd1-48c8-a7c4-215eda17ba96,elapsed.toys,available,14.98,82.48,medium,l
 8103b362-ef91-4b57-9ee5-77c65bd57f1a,ambience.toys,available,17.99,64.99,high,low,8,namesilo,,,18/09/2026 16:42
 af54d4d7-9781-476e-8f82-78d01fc35192,myopic.toys,available,14.98,82.48,medium,low,6,namecheap,,,03/09/2026 12:14
 caad0d92-fb14-4dd6-a0df-d2182c733223,antenna.toys,available,19.99,,high,low,7,name.com,,,
+842aa31e-d2df-4a00-a7c7-bbe029bbcfdd,monroe.toys,available,50.2,50.2,high,low,6,cloudflare,,,28/09/2026 02:11
 0852ff8c-718d-47af-b8be-72a812baeaf3,hustle.toys,available,17.99,64.99,high,low,6,namesilo,,,17/09/2026 09:12
 5ba33523-deb8-4274-85ad-a0f9ba32f63c,clearing.toys,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 15:28
 d8b84712-a94b-4c44-b855-a549c0bdd941,untangled.toys,available,14.98,82.48,medium,low,9,namecheap,,,12/09/2026 20:57
@@ -521,14 +541,14 @@ b98e0a19-b6ce-423e-ad65-7e5eeac6fae7,deciphered.toys,available,14.98,82.48,mediu
 be7a4724-6cb2-42eb-a5c7-8692f6fff6bd,booth.toys,available,14.98,82.48,high,low,5,namecheap,,,24/09/2026 07:20
 29234420-4eb7-4460-b297-2e7a3704ac6f,scab.toys,available,17.99,64.99,medium,low,4,namesilo,,,24/09/2026 02:52
 0c346de4-e205-4ad6-af54-3b376e14a9ec,swinging.toys,available,14.98,82.48,high,low,8,namecheap,,,23/08/2026 08:43
-51f6cd55-66c2-4887-8b2c-e67be1c776d6,armoured.toys,available,14.98,82.48,high,low,8,namecheap,,,06/08/2026 20:10
+51f6cd55-66c2-4887-8b2c-e67be1c776d6,armoured.toys,available,14.98,82.48,medium,low,8,namecheap,,,06/08/2026 20:10
 f22cf975-6797-4e4a-9ec4-1e8874b11f84,albizia.toys,available,14.98,82.48,high,low,7,namecheap,,,18/09/2026 03:01
 2f54e1f3-f355-4525-97b5-ca7371d0f01e,glued.toys,available,14.98,82.48,high,low,5,namecheap,,,20/08/2026 15:12
 8b754d68-038d-43c9-b17a-3ddbc597805b,malformed.toys,available,14.98,82.48,medium,low,9,namecheap,,,13/08/2026 23:43
 b0335f82-9f48-4877-bf57-a16b3af033d7,exciting.toys,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 15:57
 14384cc5-3d32-472f-90d8-277c595c5eb2,disorder.toys,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 22:27
 d5fa4481-81c9-4030-af90-82f4e7069bcd,chopped.toys,available,14.98,82.48,high,low,7,namecheap,,,12/08/2026 06:57
-68ec4ce9-65b5-4b02-afd9-0397f15871b0,louisa.toys,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 14:44
+68ec4ce9-65b5-4b02-afd9-0397f15871b0,louisa.toys,available,17.99,64.99,medium,low,6,namesilo,,,25/09/2026 14:44
 52c8021e-ae84-4340-ae66-6673ff643828,shouter.toys,available,14.98,82.48,medium,low,7,namecheap,,,22/09/2026 17:05
 fcacbb83-7c59-45f9-be7c-f0ca008abb86,zoo.toys,premium,118.8,118.8,high,low,3,namesilo,,,26/09/2026 00:33
 9fa19903-1968-405f-aa0c-bd13c446c239,draining.toys,available,14.98,82.48,medium,low,8,namecheap,,,14/08/2026 18:19
@@ -540,7 +560,7 @@ fcacbb83-7c59-45f9-be7c-f0ca008abb86,zoo.toys,premium,118.8,118.8,high,low,3,nam
 a27b7060-9f39-475d-8c6f-261217482fda,experimentally.toys,available,19.99,,medium,low,14,name.com,,,
 93160426-6135-4e69-8fa7-61929474bf07,introduce.toys,available,19.99,,high,low,9,name.com,,,
 1cba25f1-682b-41da-8f08-d484750b4ecd,legs.toys,available,19.99,,high,low,4,name.com,,,
-f66e55c5-ef96-40dd-b1c3-04d93bfca75d,barroom.toys,available,14.98,82.48,high,low,7,namecheap,,,22/09/2026 03:34
+f66e55c5-ef96-40dd-b1c3-04d93bfca75d,barroom.toys,available,14.98,82.48,medium,low,7,namecheap,,,22/09/2026 03:34
 f5b9454a-60b0-4e17-96a6-ee794e54b21a,mothafucker.toys,available,19.99,,medium,low,11,name.com,,,
 2945d24b-594a-4f8e-901e-8bba2012344a,influential.toys,available,14.98,82.48,high,low,11,namecheap,,,08/09/2026 05:20
 e6ef7d4a-c814-42f9-b3bd-1fef2acaa971,couples.toys,premium,78.54,78.54,medium,low,7,namesilo,,,
@@ -549,17 +569,19 @@ e6ef7d4a-c814-42f9-b3bd-1fef2acaa971,couples.toys,premium,78.54,78.54,medium,low
 8357654e-c2bb-4afd-a57d-2a9fdadfa400,ames.toys,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 12:32
 63025b24-9160-48cc-98f8-c6394b7b40d0,crescent.toys,available,14.98,82.48,high,low,8,namecheap,,,13/08/2026 06:14
 5b293157-1e12-433f-a0b9-2490076cbf6a,blah.toys,available,17.99,64.99,high,low,4,namesilo,,,24/09/2026 03:41
-6dd88cf3-101c-4798-9323-393002634129,doings.toys,available,14.98,82.48,high,low,6,namecheap,,,23/09/2026 03:17
+6dd88cf3-101c-4798-9323-393002634129,doings.toys,available,14.98,82.48,medium,low,6,namecheap,,,23/09/2026 03:17
 a6db7535-9ba2-4047-bcd3-2b03c6219261,assessment.toys,available,17.99,64.99,high,low,10,namesilo,,,19/09/2026 22:08
-ad8637f0-d40f-4014-a082-041205b12d56,gripe.toys,premium,118.8,118.8,high,low,5,namesilo,,,23/09/2026 00:19
+ad8637f0-d40f-4014-a082-041205b12d56,gripe.toys,premium,118.8,118.8,medium,low,5,namesilo,,,23/09/2026 00:19
 8628c9e3-cfc9-4e7e-9064-f00c1ffda07c,throng.toys,available,17.99,64.99,high,low,6,namesilo,,,24/09/2026 17:08
 052fbfb6-626b-45fd-afa4-5f7cc5164a9d,unimposing.toys,available,14.98,82.48,medium,low,10,namecheap,,,12/09/2026 13:12
 78af32eb-1526-4390-b9b2-c3173b2dc40e,depicted.toys,available,14.98,82.48,medium,low,8,namecheap,,,14/08/2026 02:12
 c4709629-516b-494c-bec8-b61836a7eecc,clausal.toys,available,14.98,82.48,medium,low,7,namecheap,,,12/08/2026 10:00
+5a77856e-aa77-454e-b0ea-2bf12524ac5e,contacted.toys,available,17.99,64.99,medium,low,9,namesilo,,,28/09/2026 00:26
 b963bfce-e4e4-4ff8-8e40-4c623abc4bef,bros.toys,available,17.99,64.99,medium,low,4,namesilo,,,18/09/2026 13:28
 ce8c8444-686f-44de-8a35-c932b5324dda,wastes.toys,available,17.99,64.99,medium,low,6,namesilo,,,17/09/2026 07:45
 1b6bf8c8-3986-4045-8db1-e21920212c19,candour.toys,available,14.98,82.48,high,low,7,namecheap,,,24/09/2026 12:03
 8b75d7aa-b7b0-4a62-aad8-6e691b7c3614,perturb.toys,available,17.99,64.99,medium,low,7,namesilo,,,24/09/2026 22:49
+bf39bf5d-e2fb-4240-84a2-28975939a6e9,staffing.toys,available,13.14,51.95,high,low,8,spaceship,,,28/09/2026 02:47
 9d47c1fc-528c-4c6c-b7db-4adaa1ef81aa,aether.toys,available,14.98,82.48,high,medium,6,namecheap,,,17/09/2026 13:40
 b0b11caf-bcc8-40d1-9fad-6827004f3202,behmen.toys,available,17.99,64.99,medium,low,6,namesilo,,,23/09/2026 03:43
 2ed3dfa3-ac63-49f0-8f40-f5f89b5aec43,bandy.toys,available,14.98,82.48,medium,low,5,namecheap,,,08/08/2026 11:45
@@ -593,7 +615,7 @@ aff0ba7f-4c50-4892-a8c4-d3559861b730,success.toys,available,19.99,,high,low,7,na
 e71796ba-8fd6-442c-8169-605e01aac5de,windblown.toys,available,14.98,82.48,medium,low,9,namecheap,,,13/09/2026 12:08
 5dec095d-6da0-48a9-abba-693fe30e443e,mutinous.toys,available,14.98,82.48,medium,low,8,namecheap,,,03/09/2026 11:55
 135669f1-d7a1-4bbe-b56a-c11105acc0e2,axseed.toys,available,17.99,64.99,medium,low,6,namesilo,,,21/09/2026 10:31
-1fdd1e37-27ba-462b-b9e5-ff71f22cb7d4,rigorous.toys,available,19.99,,high,low,8,name.com,,,
+1fdd1e37-27ba-462b-b9e5-ff71f22cb7d4,rigorous.toys,available,17.99,64.99,high,low,8,namesilo,,,27/09/2026 15:20
 d6873a0d-e040-4539-ab47-7394038fcdc1,cousins.toys,available,14.98,82.48,high,low,7,namecheap,,,19/09/2026 21:00
 86617c70-9316-4c82-9f35-a3d70e5978b0,unvoiced.toys,available,14.98,82.48,medium,low,8,namecheap,,,11/09/2026 03:39
 05edee95-3281-4fc4-b0c8-ef02f78503a0,berbers.toys,available,17.99,64.99,medium,low,7,namesilo,,,19/09/2026 23:24
@@ -618,7 +640,7 @@ cb73a3e6-a926-45b9-9d78-f603b83c2a51,maxim.toys,available,19.99,,high,low,5,name
 7d8f2a79-c63d-4285-a934-928f0c6f556b,suggested.toys,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 13:48
 95737703-ee02-4834-96e1-6fde26965334,mouthguard.toys,available,19.99,,medium,low,11,name.com,,,
 b0337e63-5ac7-468d-8c1f-737b6f5f45d2,affecting.toys,available,14.98,82.48,high,low,9,namecheap,,,
-24e05487-bc3c-40fe-8eb8-19a4a48ac8f5,improper.toys,available,14.98,82.48,high,low,8,namecheap,,,21/08/2026 23:12
+24e05487-bc3c-40fe-8eb8-19a4a48ac8f5,improper.toys,available,14.98,82.48,medium,low,8,namecheap,,,21/08/2026 23:12
 43bfb57b-a045-4a09-b453-a25c7c1079d2,confide.toys,available,19.99,,high,low,7,name.com,,,
 afea4a3c-bae9-475c-ac7e-d521c9a91297,alert.toys,available,14.98,82.48,high,low,5,namecheap,,,
 079f2639-ee95-423e-a795-a7b8ea10bd0d,psalms.toys,available,17.99,64.99,high,low,6,namesilo,,,24/09/2026 07:04
@@ -651,10 +673,11 @@ e6f9e982-db0d-426f-8b1d-75bb431bef59,pilot.toys,available,19.99,,high,low,5,name
 d64f6e09-524c-4b1f-8489-06a32beaac52,occupant.toys,available,14.98,82.48,high,low,8,namecheap,,,09/09/2026 14:52
 ce9956cb-4723-4dc0-992d-d6350c1d30e0,adige.toys,available,17.99,64.99,medium,low,5,namesilo,,,17/09/2026 08:16
 d63b4cbf-f2ab-45fe-a7fa-3ad25e3a1418,above.toys,available,17.99,64.99,high,low,5,namesilo,,,21/09/2026 14:29
-f9260bda-60b8-401c-94ea-b9d4fe335277,returning.toys,available,19.99,,high,low,9,name.com,,,
+f9260bda-60b8-401c-94ea-b9d4fe335277,returning.toys,available,50.2,50.2,high,low,9,cloudflare,,,27/09/2026 13:35
 e53c0b42-f1c2-40d9-8968-490b370fa6f4,alibi.toys,available,17.99,64.99,high,low,5,namesilo,,,18/09/2026 07:24
 8da5ea56-ba95-4e7c-87f2-82b115875eeb,lawfully.toys,available,19.99,84.99,medium,low,8,name.com,,,13/08/2026 19:09
 b1959760-f945-4b82-a366-3ad4ebb57742,finest.toys,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 18:42
+86c4afbe-e517-431a-800d-a6159230bc6d,resolve.toys,available,17.99,64.99,high,low,7,namesilo,,,28/09/2026 01:54
 703d2d4c-122c-4baa-a35f-160bddf36443,amplifies.toys,available,19.99,84.99,medium,low,9,name.com,,,17/09/2026 20:54
 debf67f2-af30-4dc9-860d-a1b012766037,millilitre.toys,available,14.98,82.48,medium,low,10,namecheap,,,11/08/2026 22:55
 5f86136f-c10e-4d73-915b-7b9e2e390244,thematic.toys,available,14.98,82.48,high,low,8,namecheap,,,11/09/2026 12:43
@@ -681,7 +704,7 @@ b024e7ce-9bf2-443f-b133-1e75c8292ac9,sanely.toys,available,14.98,82.48,medium,lo
 db7bcca6-12b0-48cb-9e83-066a5086bf5b,promises.toys,available,17.99,64.99,medium,low,8,namesilo,,,27/09/2026 03:01
 659d76ef-008e-4d53-abbc-9cca560b89e2,bandits.toys,available,17.99,64.99,medium,low,7,namesilo,,,21/09/2026 01:18
 0423cc67-84f3-4e56-a511-130d24a975db,communism.toys,available,17.99,64.99,high,low,9,namesilo,,,24/09/2026 16:38
-d8f2f88d-0926-4518-a20d-c51985aefc91,insurgent.toys,available,14.98,82.48,high,low,9,namecheap,,,22/08/2026 07:44
+d8f2f88d-0926-4518-a20d-c51985aefc91,insurgent.toys,available,14.98,82.48,medium,low,9,namecheap,,,22/08/2026 07:44
 7ccdafcc-c313-4df9-952a-8c6ef48a33f1,gangling.toys,available,14.98,82.48,medium,low,8,namecheap,,,18/08/2026 20:08
 aed2a942-6464-4997-8c14-35ff8607a877,possible.toys,available,17.99,64.99,high,low,8,namesilo,,,27/09/2026 04:44
 f873b57e-0e04-4696-b4da-88ceb4f7e109,indiscreet.toys,available,14.98,82.48,medium,low,10,namecheap,,,22/08/2026 03:07
@@ -691,9 +714,10 @@ fbe00c9c-78eb-4aa1-a8d4-a8f0d44fe0b2,tricolour.toys,available,14.98,82.48,high,l
 a2c96abb-5555-4797-8756-184bc6a9ad69,uhf.toys,available,17.99,64.99,high,low,3,namesilo,,,26/09/2026 00:28
 d2d91db2-c4ba-4aee-94a9-f7140eda681e,whirr.toys,available,14.98,82.48,medium,low,5,namecheap,,,13/09/2026 11:31
 650ab3e7-fce0-43b8-a161-c1732f4c6359,traveler.toys,available,19.99,,high,low,8,name.com,,,
+c863257c-0d0d-439d-88e1-7e2558e0482b,meyers.toys,available,50.2,50.2,high,low,6,cloudflare,,,27/09/2026 20:50
 6fafded9-4ff2-4e52-a021-6e4901fe9471,backslash.toys,available,19.99,,high,low,9,name.com,,,
 b8cfa247-87fa-4a3d-abb8-881fb841dda3,stochastic.toys,available,14.98,82.48,medium,low,10,namecheap,,,10/09/2026 20:50
-78204c8e-ab08-4338-a979-1904f41b601e,arthropod.toys,available,17.99,64.99,high,low,9,namesilo,,,20/09/2026 10:41
+78204c8e-ab08-4338-a979-1904f41b601e,arthropod.toys,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 10:41
 d38519f7-875f-4ebd-ad3a-b2e20e16de0c,loos.toys,available,17.99,64.99,medium,low,4,namesilo,,,17/09/2026 09:32
 8260ba54-4a96-4188-8ae6-27bd73ebecc6,comatose.toys,available,14.98,82.48,medium,low,8,namecheap,,,12/08/2026 18:25
 1be3ed77-9e91-4fcc-a19f-a8343bf4920a,riskless.toys,available,14.98,82.48,medium,low,8,namecheap,,,09/09/2026 17:59
@@ -733,11 +757,12 @@ ad19f7d3-52dd-4599-b47a-b1a3aed16fb1,footling.toys,available,14.98,82.48,medium,
 c42af903-2084-4f32-91a0-78517edd0370,typically.toys,available,19.99,,medium,low,9,name.com,,,
 33f7225c-4e76-42ee-993a-40a4be7856ea,beebread.toys,available,17.99,64.99,medium,low,8,namesilo,,,18/09/2026 17:24
 a0c28609-511e-43d8-9ae5-83648138793d,courtroom.toys,available,19.99,,high,low,9,name.com,,,
+75ae8b71-8d6b-4032-9779-4f5b2db85a34,owed.toys,available,17.99,64.99,medium,low,4,namesilo,,,27/09/2026 17:35
 98c757d8-f781-4850-9311-8098cb78972e,tensile.toys,available,14.98,82.48,medium,low,7,namecheap,,,11/09/2026 11:30
 7b17cd44-455f-437c-996c-50bc02e1836e,exoteric.toys,available,14.98,82.48,medium,low,8,namecheap,,,17/08/2026 17:44
 90a38d56-29c3-4d5c-82e8-0600d294d766,planets.toys,available,17.99,64.99,high,low,7,namesilo,,,18/09/2026 11:12
-3d5f0113-4503-4ceb-8ae3-191389a88bd3,criterion.toys,available,19.99,,high,low,9,name.com,,,
-7b1e80cb-10f8-4eb9-8647-f95d3a19a308,airedale.toys,available,17.99,64.99,high,low,8,namesilo,,,17/09/2026 23:08
+3d5f0113-4503-4ceb-8ae3-191389a88bd3,criterion.toys,available,17.99,64.99,high,low,9,namesilo,,,28/09/2026 00:29
+7b1e80cb-10f8-4eb9-8647-f95d3a19a308,airedale.toys,available,17.99,64.99,medium,low,8,namesilo,,,17/09/2026 23:08
 71014e70-cfdf-4b01-a1b8-407293ee6cb6,insomniac.toys,available,14.98,82.48,high,low,9,namecheap,,,22/08/2026 07:22
 744c405c-6aa1-4540-b014-e10af9017a1e,tantalize.toys,available,14.98,82.48,medium,low,9,namecheap,,,21/09/2026 19:52
 ee948c36-5f5f-4e5b-a40c-7e2a4c5d49da,wells.toys,available,17.99,64.99,high,low,5,namesilo,,,27/09/2026 04:19
@@ -745,7 +770,7 @@ ee948c36-5f5f-4e5b-a40c-7e2a4c5d49da,wells.toys,available,17.99,64.99,high,low,5
 a32e2d7d-c94d-474c-ba04-5c69790e071c,benzoate.toys,available,17.99,64.99,medium,low,8,namesilo,,,23/09/2026 08:56
 fea1e064-35e6-4631-b29d-d83899b1d7bf,falls.toys,available,19.99,,high,low,5,name.com,,,
 ae20a191-cf64-4a63-84e9-6f46990b5e46,corrode.toys,available,14.98,82.48,medium,low,7,namecheap,,,09/09/2026 20:10
-c696d529-ddf0-4772-b74b-90df64d20156,ricefield.toys,available,19.99,,high,low,10,name.com,,,
+c696d529-ddf0-4772-b74b-90df64d20156,ricefield.toys,available,19.99,,medium,low,10,name.com,,,
 c35e3f18-521f-4f4b-ae55-73776533f147,faulty.toys,available,14.98,82.48,medium,low,6,namecheap,,,13/08/2026 23:08
 f0bae2b1-652c-4306-8c1d-78d2e75b6a56,antitoxic.toys,available,14.98,82.48,medium,low,9,namecheap,,,05/08/2026 19:55
 caa2bd0e-bb9d-44c0-922e-f2cae4c2edc8,thirdhand.toys,available,14.98,82.48,medium,low,9,namecheap,,,11/09/2026 13:59
@@ -767,6 +792,7 @@ eb447003-ad03-415a-89d5-36b0f6ae7654,watson.toys,available,,,high,medium,6,,,,
 a4d55a0d-5de7-46a4-9582-d7712cb0a4df,autoerotic.toys,available,14.98,82.48,medium,low,10,namecheap,,,07/08/2026 20:01
 75e838c2-f86a-411f-a42e-31a60efb9ec8,bimanual.toys,available,14.98,82.48,medium,low,8,namecheap,,,09/08/2026 22:36
 b0fbfffa-3364-4342-bd63-ec7b68489a7c,trauma.toys,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 07:04
+f553fe6f-13bd-411f-9364-e16b9acd9d45,permian.toys,available,10.92,53.72,high,low,7,dynadot,,,27/09/2026 15:11
 ce76ce2d-05a5-45cc-8317-ab099f85bfce,bilgy.toys,available,14.98,82.48,medium,low,5,namecheap,,,09/08/2026 21:16
 474b032c-238f-4e9c-8b7e-9dfd073c8c21,junky.toys,available,17.99,64.99,medium,low,5,namesilo,,,17/09/2026 06:52
 7c334561-9c1d-4f93-8720-276b54903d24,airworthy.toys,available,14.98,82.48,medium,low,9,namecheap,,,
@@ -800,10 +826,11 @@ cfb88f9c-053d-491b-a0a9-5ccfce8e1c69,feminine.toys,available,17.99,64.99,high,lo
 8075db7b-17eb-4b3d-b02f-469259720a82,swart.toys,available,14.98,82.48,medium,low,5,namecheap,,,11/09/2026 05:22
 40f51f75-015c-4c06-9efe-e270a295f33b,enter.toys,available,19.99,,high,low,5,name.com,,,
 55ad78f9-f7d6-44db-afac-2cf5ac546fee,clifton.toys,available,14.98,82.48,medium,low,7,namecheap,,,25/09/2026 19:29
+22ccb472-3e01-4d9f-9490-f7ddca864b07,cfa.toys,available,50.2,50.2,high,low,3,cloudflare,,,28/09/2026 03:42
 fadd5767-0b2e-45fc-bec1-3f3267980a23,increased.toys,available,17.99,64.99,high,low,9,namesilo,,,25/09/2026 08:09
 19264438-cd4f-416f-85a0-dea77d765559,proactive.toys,available,17.99,64.99,high,low,9,namesilo,,,27/09/2026 06:56
 db030e47-9788-42fc-83a5-3bc2868bbdd5,average.toys,available,17.99,64.99,high,low,7,namesilo,,,22/09/2026 14:28
-3ded09bd-d6e2-401b-9067-6843607a5279,hospitals.toys,available,17.99,64.99,high,low,9,namesilo,,,20/09/2026 04:37
+3ded09bd-d6e2-401b-9067-6843607a5279,hospitals.toys,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 04:37
 dbf6b0d4-c74c-47f5-9f50-f5cb49a23a8a,nickel.toys,available,17.99,64.99,high,low,6,namesilo,,,20/09/2026 22:42
 f0eb85bf-739a-4da1-a0ec-4c32f2ce03c1,arboreal.toys,available,14.98,82.48,high,low,8,namecheap,,,06/08/2026 13:18
 91d4c81d-5fb0-476a-8a09-894b24e9f76a,elegiac.toys,available,14.98,82.48,medium,low,7,namecheap,,,16/08/2026 03:28
@@ -815,7 +842,7 @@ c44dab51-8595-40b0-8487-d4f95db180b4,balefire.toys,available,17.99,64.99,medium,
 582d6bd4-90df-475c-8bbe-9b000656c8f5,stormbound.toys,available,14.98,82.48,low,low,10,namecheap,,,10/09/2026 21:22
 725067d7-3844-4068-b211-af13ff430725,torrent.toys,available,17.99,64.99,high,low,7,namesilo,,,24/09/2026 16:04
 44dc3b72-6540-4195-9ef5-0866cd4d750d,drear.toys,available,14.98,82.48,medium,low,5,namecheap,,,14/08/2026 11:45
-44833991-0db8-40ae-ba2a-eeaeca5e722f,invertible.toys,available,14.98,82.48,high,low,10,namecheap,,,22/08/2026 09:00
+44833991-0db8-40ae-ba2a-eeaeca5e722f,invertible.toys,available,14.98,82.48,medium,low,10,namecheap,,,22/08/2026 09:00
 4759bd62-4a78-4979-abb4-e923f7ed2dea,tapered.toys,available,14.98,82.48,medium,low,7,namecheap,,,03/09/2026 13:29
 8dbeabbc-d3b9-4236-aa61-b06414c89cbe,alar.toys,available,14.98,82.48,medium,low,4,namecheap,,,
 07fd07e1-c0e5-47f9-a75e-d9bed62b8afe,bizarre.toys,available,14.98,82.48,high,low,7,namecheap,,,22/09/2026 21:11
@@ -831,7 +858,7 @@ ad698429-0f5f-4fb7-82c2-4d8deebc053b,updates.toys,available,17.99,64.99,medium,l
 4ee38165-d200-4556-b993-3ed6dfdcb4c3,sight.toys,available,14.98,82.48,high,low,5,namecheap,,,25/09/2026 20:56
 3cf81a80-082c-4261-862a-8545e5b4e239,tipple.toys,available,17.99,64.99,medium,low,6,namesilo,,,23/09/2026 12:44
 a79fa3bc-484c-4bee-8403-1f30ee98356c,personality.toys,available,17.99,64.99,high,low,11,namesilo,,,25/09/2026 16:45
-3b158a08-e60d-47f5-8b17-d952108401a2,ternary.toys,available,14.98,82.48,high,low,7,namecheap,,,
+3b158a08-e60d-47f5-8b17-d952108401a2,ternary.toys,available,14.98,82.48,medium,low,7,namecheap,,,
 24aa5326-b163-4ef1-822e-d0092dd5341c,detected.toys,available,17.99,64.99,high,low,8,namesilo,,,24/09/2026 07:30
 a5c8955a-21e0-4f84-9db9-45b196284a9c,suntan.toys,available,14.98,82.48,high,low,6,namecheap,,,11/09/2026 07:52
 116c1bd0-0ce5-4f1d-95fa-f1f159ca4234,follower.toys,available,19.99,,high,low,8,name.com,,,
@@ -840,7 +867,7 @@ d0096d03-2d80-4c03-bcbb-a1d64a469e65,adjunct.toys,available,14.98,82.48,high,low
 2cd7dc1a-7c70-4d7c-8d32-acd7c5e37d56,illiteracy.toys,available,14.98,82.48,medium,low,10,namecheap,,,19/09/2026 01:54
 99a5f8e3-65af-4727-aedd-fb2bf403b5fe,fleetly.toys,available,14.98,82.48,medium,low,7,namecheap,,,14/09/2026 18:56
 0d81952e-af64-44cb-b4cd-e22985b81524,engaged.toys,available,14.98,82.48,high,low,7,namecheap,,,10/08/2026 19:07
-b2de9701-139a-4c17-be41-bf12df2e64d1,dilate.toys,available,14.98,82.48,high,low,6,namecheap,,,16/08/2026 00:39
+b2de9701-139a-4c17-be41-bf12df2e64d1,dilate.toys,available,14.98,82.48,medium,low,6,namecheap,,,16/08/2026 00:39
 130a50ba-3d8c-4577-865c-b55b2f7b4059,database.toys,available,17.99,64.99,high,low,8,namesilo,,,25/09/2026 05:18
 644872f9-07df-40e6-be12-f5d2f97ba42b,pays.toys,available,17.99,64.99,medium,low,4,namesilo,,,25/09/2026 17:21
 d0b22617-0d00-4b6d-902b-67e763a63def,merit.toys,available,19.99,,high,low,5,name.com,,,
@@ -855,14 +882,15 @@ bbaef6de-5c3f-4517-add5-06737ff76469,earth.toys,available,19.99,,high,medium,5,n
 4c625ffb-2895-4b2c-9714-4cf05a2804ff,dreamy.toys,available,14.98,82.48,high,low,6,namecheap,,,14/08/2026 18:48
 ed09f83c-49ec-491d-ab4a-b4619510a42a,barred.toys,available,14.98,82.48,medium,low,6,namecheap,,,08/08/2026 20:37
 14982467-de2a-4563-a5bc-7ff39bac5ffa,umber.toys,available,14.98,82.48,high,low,5,namecheap,,,11/09/2026 22:59
-33528943-0075-4230-a361-df6fd50f7f22,landscaped.toys,available,14.98,82.48,high,low,10,namecheap,,,22/08/2026 19:30
+33528943-0075-4230-a361-df6fd50f7f22,landscaped.toys,available,14.98,82.48,medium,low,10,namecheap,,,22/08/2026 19:30
 a8b346b9-02ef-4408-90c1-de20c85b8ef7,kurakkan.toys,available,14.98,82.48,medium,low,8,namecheap,,,17/09/2026 15:21
 a2adeb35-8196-41f0-a9cc-bb2f13b35d88,cure.toys,available,17.99,64.99,high,low,4,namesilo,,,24/09/2026 03:52
 a775f4ba-f537-44c5-a8e3-620a35aad40b,agency.toys,available,14.98,82.48,high,medium,6,namecheap,,,17/09/2026 16:59
 703b626c-11e6-41df-a42d-069fb9c4b2d9,socratic.toys,available,14.98,82.48,high,low,8,namecheap,,,10/09/2026 13:20
 5e70b611-cf97-4cce-aa0f-344a731faab0,illumine.toys,available,14.98,82.48,high,low,8,namecheap,,,08/09/2026 04:54
+148a5b91-b673-4371-beca-0efd3a0ada39,stab.toys,available,13.14,51.95,high,low,4,spaceship,,,28/09/2026 02:12
 7ae17552-504d-4513-96ba-09b60bda56ba,drome.toys,available,14.98,82.48,high,low,5,namecheap,,,17/09/2026 12:59
-4993df72-0495-4ae3-92a0-a69a624216cb,wordless.toys,available,14.98,82.48,high,low,8,namecheap,,,03/09/2026 11:53
+4993df72-0495-4ae3-92a0-a69a624216cb,wordless.toys,available,14.98,82.48,medium,low,8,namecheap,,,03/09/2026 11:53
 604733ca-7bec-49ff-92e0-38cc533e9ebe,thunderous.toys,available,19.99,84.99,medium,low,10,name.com,,,13/08/2026 19:56
 1a0d02a7-d2f5-45db-aac4-2f142ad7174f,stumpy.toys,available,14.98,82.48,medium,low,6,namecheap,,,24/08/2026 10:40
 c3ea7e05-823c-47b6-a5bd-73a6fca05d90,visitor.toys,available,19.99,,high,low,7,name.com,,,
@@ -870,14 +898,15 @@ c3a686db-423a-41e3-9470-6140e1931d2c,priest.toys,available,14.98,82.48,high,low,
 4665df13-9b27-4ff3-9f42-e01207d09100,farthest.toys,available,14.98,82.48,medium,low,8,namecheap,,,24/09/2026 17:05
 4cac5daf-2bfc-4f38-8d03-312af6d6ddf9,rover.toys,available,14.98,82.48,high,low,5,namecheap,,,23/09/2026 20:16
 7fe66ad6-14de-487f-a27b-e3b10dd2c6ad,hie.toys,available,14.98,82.48,medium,low,3,namecheap,,,09/09/2026 19:49
-fcf319c4-1021-4a2f-b57c-c5ce7ef915e4,resole.toys,available,14.98,82.48,high,low,6,namecheap,,,10/09/2026 13:33
+092c242a-d9fb-49ab-a680-defc6616072d,pine.toys,available,10.81,52.01,high,low,4,porkbun,,,28/09/2026 02:55
+fcf319c4-1021-4a2f-b57c-c5ce7ef915e4,resole.toys,available,14.98,82.48,medium,low,6,namecheap,,,10/09/2026 13:33
 f4881b22-1212-427a-87cf-47338c7d5357,cholera.toys,available,17.99,64.99,medium,low,7,namesilo,,,20/09/2026 14:08
 0f885796-92fe-4e54-a93e-a1a4ce55552a,nebulizer.toys,available,14.98,82.48,high,low,9,namecheap,,,21/09/2026 00:21
 69d1bbfd-5869-4d31-b121-7a67c85163e4,unloved.toys,available,14.98,82.48,medium,low,7,namecheap,,,12/09/2026 15:10
 2154d438-717a-466e-9dda-1a038ca2eb57,chordate.toys,available,14.98,82.48,medium,low,8,namecheap,,,12/08/2026 07:12
 0e4f8423-355b-4422-9a4c-7094b93540c5,trenchant.toys,available,14.98,82.48,medium,low,9,namecheap,,,12/08/2026 10:33
 fdfc1b7c-f190-4fc3-aa06-6d9fbbd51efa,disinfection.toys,available,17.99,64.99,high,low,12,namesilo,,,17/09/2026 16:37
-65e6454d-58a7-4a08-9285-0eea8972c52d,contested.toys,available,17.99,64.99,high,low,9,namesilo,,,23/09/2026 22:01
+65e6454d-58a7-4a08-9285-0eea8972c52d,contested.toys,available,17.99,64.99,medium,low,9,namesilo,,,23/09/2026 22:01
 d6b2b40b-5877-4ec5-b41c-f47690a1161a,psycho.toys,available,17.99,64.99,high,low,6,namesilo,,,27/09/2026 07:59
 b655666b-d0ea-44f2-918c-0e460b9066b4,andradite.toys,available,17.99,64.99,medium,low,9,namesilo,,,19/09/2026 04:09
 3907c809-7c9c-46b9-9342-9e1bf4bc51eb,abdias.toys,available,17.99,64.99,medium,low,6,namesilo,,,16/09/2026 14:41
@@ -904,7 +933,7 @@ ec8309fd-7e86-4014-b208-dc0763a09d4d,bast.toys,available,19.99,84.99,medium,low,
 c5a813d4-4c93-4b16-b932-911308405ca4,improving.toys,available,14.98,82.48,high,low,9,namecheap,,,21/08/2026 23:17
 f26e4201-c80f-4539-bb2b-e457e9ca87ca,andes.toys,available,19.99,84.99,high,low,5,name.com,,,19/09/2026 04:04
 8408a109-9f46-47c0-8bfd-16fcb759d797,ambystoma.toys,available,17.99,64.99,medium,low,9,namesilo,,,18/09/2026 17:36
-24fb185c-4ba5-49bf-a9b9-adf5463d7bed,kidnapping.toys,available,17.99,64.99,high,low,10,namesilo,,,25/09/2026 08:11
+24fb185c-4ba5-49bf-a9b9-adf5463d7bed,kidnapping.toys,available,17.99,64.99,medium,low,10,namesilo,,,25/09/2026 08:11
 27065cc7-69a3-4bcb-91e7-356e5c235696,earle.toys,available,17.99,64.99,medium,low,5,namesilo,,,26/09/2026 03:17
 95a49a52-af0a-4df0-a2b0-55f5198d45c7,bringing.toys,available,19.99,,high,low,8,name.com,,,
 7cc034ab-ccdf-4539-9b08-69fcbc21aa3e,haley.toys,available,17.99,64.99,high,low,5,namesilo,,,18/09/2026 05:45
@@ -919,6 +948,7 @@ ff7368b9-cfa4-4b07-b12e-7883cf29bec1,earthworm.toys,available,17.99,64.99,high,l
 2d69349f-6185-4ed7-94ab-cdf15592b7c9,unready.toys,available,14.98,82.48,medium,low,7,namecheap,,,12/09/2026 17:53
 a35738de-53fc-448a-ae79-34198a2deffd,performance.toys,available,17.99,64.99,high,low,11,namesilo,,,25/09/2026 16:44
 55bc1474-520b-4838-936d-a24354ec56b4,designing.toys,available,14.98,82.48,high,low,9,namecheap,,,14/08/2026 03:45
+b6cb99ce-74f6-404f-b751-a2710f2ae02f,shawn.toys,available,17.99,64.99,high,low,5,namesilo,,,27/09/2026 15:48
 5f44db1f-96cc-4a48-8eea-6ef73acba68b,fondness.toys,available,17.99,64.99,high,low,8,namesilo,,,17/09/2026 14:17
 c10171a1-6acb-4468-ac65-3a68c9e0c3bd,curie.toys,available,14.98,82.48,high,low,5,namecheap,,,12/08/2026 08:00
 2c64f156-6002-47d3-9a02-1f785edccf0a,logically.toys,available,14.98,82.48,high,low,9,namecheap,,,15/09/2026 12:41
@@ -936,7 +966,7 @@ c2e21327-8ed2-417e-8cf9-2bf7e74d9de3,fascist.toys,available,14.98,82.48,medium,l
 1214f901-91f0-47ec-8f1e-6c2951213a1d,stationary.toys,available,14.98,82.48,high,low,10,namecheap,,,10/09/2026 19:12
 cf544988-d904-4018-9641-97208f5914ca,anaphase.toys,available,17.99,64.99,medium,low,8,namesilo,,,19/09/2026 02:09
 2563ea80-ad66-46a2-98ac-17dadf22c986,barwood.toys,available,11.98,82.48,medium,low,8,namecheap,,,
-41850b8f-cc06-4a7b-9a00-fedeff9c4591,races.toys,available,17.99,64.99,high,low,5,namesilo,,,19/09/2026 00:33
+41850b8f-cc06-4a7b-9a00-fedeff9c4591,races.toys,available,17.99,64.99,medium,low,5,namesilo,,,19/09/2026 00:33
 f9e3dcec-a26a-4c8d-b835-051ead10207b,ixl.toys,available,14.98,82.48,medium,low,3,namecheap,,,
 31ab5390-2652-4e89-a4c8-820ecf3f6dbf,mug.toys,available,17.99,64.99,high,low,3,namesilo,,,24/09/2026 14:58
 0567f284-b880-43c7-8e6d-4cf9d752f92b,brutally.toys,available,14.98,82.48,medium,low,8,namecheap,,,14/09/2026 01:41
@@ -948,16 +978,17 @@ a1702137-bd5b-4e9f-8602-3dcf856da756,elephants.toys,available,14.98,82.48,high,l
 e742625c-1d57-4158-8baf-27dcf387050f,dime.toys,available,19.99,,high,low,4,name.com,,,
 81a280dc-25bc-4c55-aa99-429a64545b61,unscathed.toys,available,14.98,82.48,high,low,9,namecheap,,,12/09/2026 12:03
 3478f552-a4de-4331-9b23-c69c2d0658e3,barnburner.toys,available,17.99,64.99,medium,low,10,namesilo,,,22/09/2026 06:49
-36f720c6-c289-4c69-a4ac-3d7e8942b708,pungent.toys,available,14.98,82.48,high,low,7,namecheap,,,
+36f720c6-c289-4c69-a4ac-3d7e8942b708,pungent.toys,available,14.98,82.48,medium,low,7,namecheap,,,
 f9e63c4a-8466-4ba0-98a9-e2a357ef7124,francesca.toys,available,19.99,,high,low,9,name.com,,,
 d2aede6d-98c1-449a-8f7b-c617fb4a6167,inside.toys,available,17.99,64.99,high,low,6,namesilo,,,25/09/2026 09:46
 3769a722-cfb6-491f-b5ad-5ab05ec2afe3,zip.toys,available,14.98,82.48,high,low,3,namecheap,,,03/09/2026 22:43
 c298a44d-fe0a-4492-bcc5-e66039b0a19a,vacations.toys,available,17.99,64.99,medium,low,9,namesilo,,,20/09/2026 00:12
 2e5e4c6d-d19b-40c9-9192-7dd06605292d,purpose.toys,available,17.99,64.99,high,low,7,namesilo,,,25/09/2026 09:59
 31729821-bb33-41d4-a769-74320ca9eb3b,acuity.toys,available,17.99,64.99,high,low,6,namesilo,,,17/09/2026 05:29
+95988034-539b-4e1a-b5f4-e5d12d64898b,presidential.toys,available,14.98,82.48,high,low,12,namecheap,,,27/09/2026 17:17
 0a9df89c-9901-41bc-9422-160fedc0b2db,tenanted.toys,available,14.98,82.48,medium,low,8,namecheap,,,11/09/2026 11:09
 4a659551-1ee2-46d1-a76e-c1aae5ba1028,ablative.toys,available,14.98,82.48,medium,low,8,namecheap,,,
-6b016523-815c-48fb-9619-d9306885dbf9,toscanini.toys,available,14.98,82.48,high,low,9,namecheap,,,20/09/2026 12:05
+6b016523-815c-48fb-9619-d9306885dbf9,toscanini.toys,available,14.98,82.48,medium,low,9,namecheap,,,20/09/2026 12:05
 35213fbe-e083-4f4c-b8b9-ee01ed0cbe78,accessory.toys,available,17.99,64.99,high,low,9,namesilo,,,21/09/2026 15:35
 268ffb79-a08f-49ee-9d4e-1dff38ae6685,noted.toys,available,14.98,82.48,high,low,5,namecheap,,,11/08/2026 23:17
 07604203-7865-4543-8bee-660091cb0c82,silence.toys,available,17.99,64.99,high,low,7,namesilo,,,26/09/2026 00:17
@@ -968,34 +999,3 @@ c298a44d-fe0a-4492-bcc5-e66039b0a19a,vacations.toys,available,17.99,64.99,medium
 5eda88a4-cf50-4c51-a40d-6ab06b324386,committees.toys,available,17.99,64.99,medium,low,10,namesilo,,,20/09/2026 09:05
 483a3ebf-87a7-4ef0-814a-f24611977556,ago.toys,available,17.99,64.99,high,low,3,namesilo,,,21/09/2026 23:15
 3415a8d9-0be8-4e3e-88cb-a1abe3944e81,swop.toys,available,14.98,82.48,high,low,4,namecheap,,,22/09/2026 08:57
-195a7725-23d5-4d3e-b344-37e2a292e3ac,tropic.toys,available,14.98,82.48,high,low,6,namecheap,,,11/09/2026 20:25
-1ff8df89-3cf7-4e8b-a748-3d864fee8341,dishonored.toys,available,14.98,82.48,medium,low,10,namecheap,,,14/08/2026 10:23
-dc8d595a-1fd3-4870-ad5f-323d91289307,chapter.toys,available,17.99,64.99,high,low,7,namesilo,,,24/09/2026 13:43
-a912db5c-e20c-41a0-8045-14c050c7beaa,appall.toys,available,17.99,64.99,medium,low,6,namesilo,,,18/09/2026 01:55
-2aa22768-a751-4050-9bb6-e3768b54489b,arak.toys,available,14.98,82.48,medium,low,4,namecheap,,,19/09/2026 23:47
-5c905810-45df-418a-a422-264d658ac3d6,capt.toys,available,14.98,82.48,high,low,4,namecheap,,,25/09/2026 12:23
-44450bd0-0613-486b-80e3-624c251cdbf2,juxtaposed.toys,available,14.98,82.48,medium,low,10,namecheap,,,22/08/2026 15:00
-ac201004-fef0-4b4d-b6a3-c9d9d12c2b6e,under.toys,available,19.99,,high,low,5,name.com,,,
-998b92e3-787e-4420-a17d-616d198be259,qualitative.toys,available,19.99,,high,low,11,name.com,,,
-6aa38f82-ad24-462d-b429-a849b179afe9,norms.toys,available,19.99,,medium,low,5,name.com,,,
-a4f6a8e0-ee30-4c92-9a31-55d8d017e74e,civilly.toys,available,14.98,82.48,medium,low,7,namecheap,,,14/09/2026 06:57
-a23cf461-0950-4dd5-8ae7-6317d9548f43,backstop.toys,available,17.99,64.99,high,low,8,namesilo,,,21/09/2026 16:06
-20387848-8008-44f0-84c8-57281c170cb7,probable.toys,available,17.99,64.99,high,low,8,namesilo,,,27/09/2026 06:59
-96793353-ea95-4bcf-bab1-740b744f405e,tubby.toys,available,14.98,82.48,medium,low,5,namecheap,,,08/09/2026 22:29
-bb328bad-6315-473f-9a03-3e0e5371ecfa,loveable.toys,available,14.98,82.48,high,low,8,namecheap,,,24/08/2026 10:07
-34e14d52-560d-4ef9-b7d6-800ebe5dbf5f,tracing.toys,available,19.99,,high,low,7,name.com,,,
-ee60ae10-7d2e-4c3f-b4a2-2336d2f8e757,poster.toys,available,19.99,,high,low,6,name.com,,,
-1b4215c0-6263-478a-b8f7-930c52185b39,recovering.toys,available,14.98,82.48,high,low,10,namecheap,,,23/09/2026 22:44
-ed33a680-6b09-4fb8-972d-c6b467227385,arranged.toys,available,14.98,82.48,high,low,8,namecheap,,,22/09/2026 08:25
-f66018dd-23d5-4988-8906-cab158a73f03,harlot.toys,available,19.99,84.99,medium,low,6,name.com,,,13/08/2026 14:19
-7851792a-2f2a-446d-932f-ef202640becf,holloway.toys,available,17.99,64.99,high,low,8,namesilo,,,26/09/2026 03:22
-d156b12b-7b27-4e68-95dd-aba179334b0d,splendid.toys,available,14.98,82.48,high,low,8,namecheap,,,17/08/2026 16:04
-594146ec-0979-4fa0-a4c0-88ecdbbc06e8,split.toys,available,14.98,82.48,high,low,5,namecheap,,,24/09/2026 11:30
-8c8bf877-b4bf-4c3d-abe6-f693dc809711,knowable.toys,available,14.98,82.48,medium,low,8,namecheap,,,12/08/2026 15:50
-e9c506da-c9a2-429b-a6b0-81099eb690bf,worth.toys,available,19.99,,high,low,5,name.com,,,
-91c3a335-af12-49b2-820b-d0d369434b89,dispersive.toys,available,14.98,82.48,medium,low,10,namecheap,,,14/08/2026 07:12
-bb22a4c9-b673-4e17-b96c-7f455b46e205,impossibly.toys,available,14.98,82.48,medium,low,10,namecheap,,,15/09/2026 04:27
-6c540d93-bbc4-4e5d-b802-cdc81283ba1b,eyry.toys,available,14.98,82.48,high,low,4,namecheap,,,
-466cde8d-a036-48c9-a5b2-2e9672e83ff8,shorted.toys,available,17.99,64.99,medium,low,7,namesilo,,,20/09/2026 16:13
-52101d95-67e1-4621-bd73-4322f6b090d6,fellowships.toys,available,17.99,64.99,medium,low,11,namesilo,,,21/09/2026 08:52
-9bc081be-a505-4776-b28a-eda6f258c580,animist.toys,available,14.98,82.48,high,low,7,namecheap,,,
